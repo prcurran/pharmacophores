@@ -1,0 +1,149 @@
+________________________________________________________________________________
+
+SuperStar Version 2020.1                           2020 release
+________________________________________________________________________________
+
+
+
+--------------------------------------------------------------------------------
+SuperStar settings
+--------------------------------------------------------------------------------
+
+Jobname          : Carbonyl_Oxygen
+
+Calculation type : SUPERSTAR
+Data source      : Intermolecular interactions as observed in the CSD
+Fragment set     : Compatible with small molecules
+
+Probe            : CARBONYL OXYGEN
+VdW radius       : 1.52  (Angstrom)
+
+Using the following SuperStar fragment libraries:
+
+    /local/pcurran/CCDC/CSD_2020/suplib/csd_subfrag_protein.spst
+    /local/pcurran/CCDC/CSD_2020/suplib/csd_subfrag_small.spst
+    /local/pcurran/CCDC/CSD_2020/suplib/csd_groups_small.spst
+    /local/pcurran/CCDC/CSD_2020/suplib/csd_groups_hetcycles.spst
+    /local/pcurran/CCDC/CSD_2020/suplib/csd_metals.spst
+    /local/pcurran/CCDC/CSD_2020/suplib/csd_flex_small.spst
+
+Grid spacing     :  0.70 (Angstrom)
+
+Correction method: off
+Map calculation  : all maps are combined by multiplication.
+Map calculation  : Full propensity range used for polar-polar maps.
+Map combination  : Significance level (0.0010); Poisson-type check.
+IsoStar data     : removing backbone-backbone contacts
+Peak fitting     : on
+
+Cycles           : 1 peak fitting cycles
+Peak height      : minimum of 1.01
+
+Torsion distribs : turned off by user
+Map distribution : propensity calculation by application of a Gaussian function (sigma= 0.50 Angstrom)
+                   Smearing calculated up to 2.0 sigmas
+
+File locations:
+ SuperStar root: /local/pcurran/CCDC/CSD_2020
+ IsoStar data:   /local/pcurran/CCDC/CSD_2020/isostar_files/istr
+
+--------------------------------------------------------------------------------
+Active substructures
+--------------------------------------------------------------------------------
+
+LZ11301   
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+2D Connectivity Matching (match scores)
+--------------------------------------------------------------------------------
+
+    1. pyrazole
+         7 N        N.pl3    LZ11301          7.0000
+         9 N2       N.2      LZ11301          7.0000
+         8 C9       C.2      LZ11301          7.0000
+        15 H6       H        LZ11301          7.0000
+        14 H5       H        LZ11301          7.0000
+    2. phenyl
+         1 C1       C.ar     LZ11301         10.2500
+         2 C2       C.ar     LZ11301         10.2500
+         3 C3       C.ar     LZ11301         10.2500
+         4 C4       C.ar     LZ11301         10.2500
+         5 C5       C.ar     LZ11301         10.2500
+         6 C6       C.ar     LZ11301         10.2500
+        10 H1       H        LZ11301         10.2500
+        11 H2       H        LZ11301         10.2500
+        12 H3       H        LZ11301         10.2500
+        13 H4       H        LZ11301         10.2500
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+3D Fragment Superposition
+--------------------------------------------------------------------------------
+
+________________________________________________________________________________
+    1. phenyl
+         7 N        N.pl3    LZ11301      backbone         0.3404
+         1 C1       C.ar     LZ11301      target           0.0477
+         2 C2       C.ar     LZ11301      target           0.0157
+         3 C3       C.ar     LZ11301      target           0.0313
+         4 C4       C.ar     LZ11301      target           0.0405
+         5 C5       C.ar     LZ11301      target           0.0487
+         6 C6       C.ar     LZ11301      target           0.0489
+         8 C9       C.2      LZ11301      backbone         0.4561
+        10 H1       H        LZ11301      target           0.0443
+        11 H2       H        LZ11301      target           0.0461
+        12 H3       H        LZ11301      target           0.0563
+        13 H4       H        LZ11301      target           0.0509
+    2. aromatic C-H
+         9 N2       N.2      LZ11301      backbone         0.0901
+         2 C2       C.ar     LZ11301      backbone         0.0848
+         8 C9       C.2      LZ11301      target           0.0500
+        14 H5       H        LZ11301      backbone         0.0566
+    3. aromatic N, all
+         7 N        N.pl3    LZ11301      backbone         0.0532
+         9 N2       N.2      LZ11301      target           0.0580
+         8 C9       C.2      LZ11301      backbone         0.0568
+    4. aromatic N-H, uncharged, in 5-rings
+         1 C1       C.ar     LZ11301      backbone         0.0158
+         7 N        N.pl3    LZ11301      target           0.0129
+         9 N2       N.2      LZ11301      backbone         0.0146
+        15 H6       H        LZ11301      target           0.0039
+
+--------------------------------------------------------------------------------
+Map statistics
+--------------------------------------------------------------------------------
+
+Grid spacing:        0.70 Angstrom
+
+Boundaries: x:      18.90 -  34.30 Angstrom
+            y:      -2.80 -  12.60 Angstrom
+            z:      56.70 -  71.40 Angstrom
+
+Accessible volume:   0.00 cubic Angstrom
+Minimum density:     0.00 per cubic Angstrom
+Maximum density:    46.14 per cubic Angstrom
+Mean density:        0.00 per cubic Angstrom
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+PEAK FITTING
+--------------------------------------------------------------------------------
+
+Final peak/map similarity: 0.8689  min_height   1.01 min_dist   1.00 ncycles 1
+
+--------------------------------------------------------------------------------
+Final list of SuperStar peaks
+--------------------------------------------------------------------------------
+
+ nr       x(A)       y(A)       z(A)         ho    int(A3)   sigma(A)
+--------------------------------------------------------------------------------
+  1    26.5980     0.7576    65.3722    46.1423    57.7027     0.7055
+  2    23.2104     7.5898    61.0597     3.8829     8.7804     1.2758
+  3    26.8465     9.7747    62.0754     3.6580     8.2358     1.2702
+  4    23.6621     1.3839    63.5944     3.5359     6.9934     1.1159
+  5    23.1394     2.8000    61.7190     3.3007     6.1879     1.0577
+  6    24.4470     9.2771    60.7401     3.2042     7.8847     1.3883
+  7    28.5004     9.7976    63.8105     2.9550     6.0027     1.1461
+  8    22.5210     5.4061    60.4651     2.7636     6.3798     1.3024
+--------------------------------------------------------------------------------

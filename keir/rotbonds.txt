@@ -1,0 +1,71 @@
+// Rotatable-bond definitions
+
+// Prevent methyl groups spinning
+[B,c,C,n,N,O,F,C,P,S,Cl,Br,I]~[B,c,C,n,N,O,C,P,S][CH3]H
+reference_atoms 1 2 3 4
+ranges 
+
+// Prevent NH3 groups spinning
+[B,c,C,n,N,O,F,C,P,S,Cl,Br,I]~[B,c,C,n,N,O,C,P,S][NH3]H
+reference_atoms 1 2 3 4
+ranges 
+
+// Prevent NH2 groups spinning
+[B,c,C,n,N,O,F,C,P,S,Cl,Br,I]~[B,c,C,n,N,O,C,P,S][NX3H2]H
+reference_atoms 1 2 3 4
+ranges 
+
+// Prevent NH groups spinning
+[B,c,C,n,N,O,F,C,P,S,Cl,Br,I]~[B,c,C,n,N,O,C,P,S][NX2H]H
+reference_atoms 1 2 3 4
+ranges 
+
+// Prevent hydroxyl groups spinning
+[B,c,C,n,N,O,F,C,P,S,Cl,Br,I]~[B,c,C,n,N,O,C,P,S][OH]H
+reference_atoms 1 2 3 4
+ranges 
+
+// Prevent thiol groups spinning
+[B,c,C,n,N,O,F,C,P,S,Cl,Br,I]~[B,c,C,n,N,O,C,P,S][SH]H
+reference_atoms 1 2 3 4
+ranges 
+
+// Prevent CF3 groups spinning
+[B,c,C,n,N,O,F,C,P,S,Cl,Br,I]~[B,c,C,n,N,O,C,P,S]C(F)(F)F
+reference_atoms 1 2 3 4
+ranges 
+
+// Prevent C(ar)-NMe2 from spinning
+[c,n]c-N([CH3])[CH3]
+reference_atoms 1 2 3 4
+ranges
+
+// Prevent C=C(C)-NH2 from spinning
+[C,N]=C([C,N])-N(H)H
+reference_atoms 1 2 4 5
+ranges
+
+// Prevent C=C(C)-NMe2 from spinning
+[C,N]=C([C,N])-N([CH3])[CH3]
+reference_atoms 1 2 4 5
+ranges
+
+// Fix esters close to trans conformation
+[H,B,c,C,n,N,O,F,Si,P,S,Cl,Br,I][OX2]C(=[O,S])[H,B,c,C,n,N,O,F,Si,P,S,Cl,Br,I]
+reference_atoms 1 2 3 5
+ranges -180 -175 1.0 175 180 1.0
+
+// Constrain secondary amide groups to be within 30 degrees of planarity
+[B,c,C,n,N,O,F,Si,P,S,Cl,Br,I][NX3]([B,c,C,n,N,O,F,Si,P,S,Cl,Br,I])C(=[O])[H,B,c,C,n,N,O,F,Si,P,S,Cl,Br,I]
+reference_atoms 1 2 4 6
+ranges -180 -150 5.0 -30 30 10.0 150 180 5.0
+
+// Constrain other amide groups to be within 10 degrees of planarity
+[H,B,c,C,n,N,O,F,Si,P,S,Cl,Br,I][NX3]C(=[O])[H,B,c,C,n,N,O,F,Si,P,S,Cl,Br,I]
+reference_atoms 1 2 3 5
+ranges -180 -170 5.0 -10 10 1.0 170 180 5.0
+
+// Constrain thioamide groups to be within 30 degrees of planarity
+[H,B,c,C,n,N,O,F,Si,P,S,Cl,Br,I][NX3]C(=[S])[H,B,c,C,n,N,O,F,Si,P,S,Cl,Br,I]
+reference_atoms 1 2 3 5
+ranges -180 -150 2.5 -30 30 1.0 150 180 2.5

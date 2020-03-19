@@ -1,0 +1,18 @@
+*******************************************************************
+Molecule: SciTegic12231509382D
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             2
+   #CSD rotamer library:      2 / 2
+   #user fragment library:    0 / 2
+   #no rotamer information:   0 / 2
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        171
+#conformers after clustering: 7
+

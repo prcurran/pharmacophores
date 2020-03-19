@@ -1,0 +1,15 @@
+libraries rotamer Fine MediumFine Medium MediumCoarse Coarse VeryCoarse
+libraries ring Fine Medium Coarse VeryCoarse
+libraries bond_length Fine Medium Coarse
+libraries valence_angle Fine Medium Coarse
+
+torsion_generalisation 0    
+    
+cascade_search_threshold rotamer 16
+cascade_search_threshold ring 8
+
+fragment_library fragment_library.txt
+
+planarity_threshold 0.03
+angle_symmetry_threshold 3.0
+trivial_rotor_strategy exclude

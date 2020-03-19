@@ -1,0 +1,3 @@
+Warning: match3diso: rms match is     0.1693 (A) for central group 1 (phenyl)
+Warning: bad match: central group missing map atoms - ignored 3 (aromatic C-H) - residue may be truncated in input file
+Warning: bad match: central group missing map atoms - ignored 3 (aromatic C-H) - residue may be truncated in input file

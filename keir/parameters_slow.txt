@@ -1,0 +1,73 @@
+// Overlay Generation Parameters
+conformer_torsion_tolerance 361.0
+max_fingerprints 300 20
+max_overlays_per_fingerprint 40 1000
+fingerprint_volume_threshold 0 1.2
+triplet_bins 0.5 3.0 5.0 7.0 9.0 11.0 13.0 16.0 19.0
+triplet_bins 0.5 3.5 6.0 8.5 11.5 13.5 17.5 20.5
+types_for_triplets ACCEPTOR|*|ACCEPTOR DONOR|*|DONOR HYDROPHOBE|*|CENTROID HYDROPHOBE|*|NORMAL
+triplet_types_dependencies 4 3
+types_for_fingerprints ACCEPTOR|*|ACCEPTOR DONOR|*|DONOR HYDROPHOBE|*|CENTROID
+fingerprint_full_point_weight 2
+fingerprint_tolerance 0.0
+
+// Overlay Filtering Parameters
+max_pre_filtered_solutions 10000
+pre_filtered_hbond_proportion 0.3
+max_filtered_solutions 20
+filter_fitness_threshold 5
+filter_dissimilarity_threshold 0.075
+soft_constraint_percentile_threshold 10.0
+
+// Definition of Scoring Functions for Overlay Filtering
+scorers filter volume hbond hydrophobe_coplanarity
+score_constraint filter volume upper quantile 50.0
+score_constraint filter hbond lower quantile 50.0
+
+// Overlay Multiplication (MOGA) Parameters
+ngenerations 150
+nstarting_for_multiply 150
+nchildren 150
+archive_strategy keep_all_non_dominated
+archive_max_size 150
+max_niches 50
+niche_size 3
+niche_max_dissimilarity 0.75
+tournament_group_size 3
+torsion_crossover_weight 0.0
+torsion_mutation_weight 0.0
+conformer_mutation_weight 1.0
+ngenerations_for_statistics 1
+low_dissimilarity_for_statistics 0.3
+
+// Definition of Scoring Functions for Overlay Multiplication
+scorers multiply volume hbond hydrophobe_coplanarity
+
+// Scoring Function Parameters
+volume_grid_size 0.5
+hydrogen_policy include
+hbond_threshold 1.5
+hbond_atom_weighter 1.0 0.3 0.15 0.75
+virtual_point_weighter 1.0 0.3 0.5 1.5
+acceptor_donor_overlap 75.0
+foreign_atom_penalty 0.5
+foreign_atom_threshold 1.5
+hydrophobe_threshold 1.5
+hydrophobe_ratio 2.0
+max_mean_square_distance 1.25
+min_average_cosine 0.8
+customised_feature_threshold 1.5
+radii_reduction_factors 0.85 0.85
+nonbonded_cutoff 0.8909
+omit_worst_contact 150.0
+pareto_method fonseca_fleming
+
+// Optimisation Parameters
+potential tripos_reduced_radii
+hydrogen_rotors rotate
+
+// Pharmacophore Parameters
+pharmacophore_threshold 1.5
+min_ligands_for_point 2
+
+write_to_console

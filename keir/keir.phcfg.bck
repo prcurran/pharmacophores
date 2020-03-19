@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CCDC_XML>
+<All>
+ <ligand_overlay_config type="PharmacophoreProject" >
+  <configuration type="Handle" >
+   <serial_number type="int" >1</serial_number>
+   <value type="LigandOverlayConfigurationFile" >
+    <title type="string" ></title>
+    <ligand_ids type="Container" >
+     <count type="int" >0</count>
+    </ligand_ids>
+    <analyser_ligand_ids type="Container" >
+     <count type="int" >0</count>
+    </analyser_ligand_ids>
+    <input_molecule_files type="Container" >
+     <count type="int" >0</count>
+    </input_molecule_files>
+    <conformer_files type="Container" >
+     <count type="int" >0</count>
+    </conformer_files>
+    <part_overlay_files type="Container" >
+     <count type="int" >0</count>
+    </part_overlay_files>
+    <part_overlay_ids type="Container" >
+     <count type="int" >0</count>
+    </part_overlay_ids>
+    <chromosome_input_file type="string" >solutions.chrm</chromosome_input_file>
+    <parameter_file type="string" >Z:/pharmacophores/keir/parameters_fast.txt</parameter_file>
+    <feature_file type="string" >Z:/pharmacophores/keir/features.txt</feature_file>
+    <rotatable_bond_file type="string" >Z:/pharmacophores/keir/rotbonds.txt</rotatable_bond_file>
+    <matching_rules_file type="string" >Z:/pharmacophores/keir/match_rules.txt</matching_rules_file>
+    <optimisation_directory type="string" >Z:/pharmacophores/keir/optimisation</optimisation_directory>
+    <analysis_file type="string" ></analysis_file>
+    <output_directory type="string" >Z:/pharmacophores/keir</output_directory>
+    <input_directory type="string" >Z:/pharmacophores/keir</input_directory>
+    <constraints type="OverlayConstraints" >
+     <ph4_constraints type="Container" >
+      <count type="int" >0</count>
+     </ph4_constraints>
+     <sub_constraints type="Container" >
+      <count type="int" >0</count>
+     </sub_constraints>
+     <ef_constraint type="Handle" >
+      <serial_number type="int" >2</serial_number>
+      <value type="ExcludeFeatureConstraint" >
+       <atom_indices type="Container" >
+        <count type="int" >0</count>
+       </atom_indices>
+      </value>
+     </ef_constraint>
+     <nhard_ph4_constraints type="int" >0</nhard_ph4_constraints>
+     <nsoft_ph4_constraint type="int" >0</nsoft_ph4_constraint>
+     <ligand_ids type="Container" >
+      <count type="int" >0</count>
+     </ligand_ids>
+    </constraints>
+    <target_pharmacophore type="UserDefinedCommonPharmacophore" >
+     <types type="Container" >
+      <count type="int" >0</count>
+     </types>
+     <ids_and_indices type="Container" >
+      <count type="int" >0</count>
+     </ids_and_indices>
+    </target_pharmacophore>
+    <target_pharmacophore_output type="string" ></target_pharmacophore_output>
+    <selections type="Container" >
+     <count type="int" >0</count>
+    </selections>
+    <multi_definitions type="Container" >
+     <count type="int" >0</count>
+    </multi_definitions>
+    <solution_definitions type="Container" >
+     <count type="int" >0</count>
+    </solution_definitions>
+    <target_file type="string" ></target_file>
+    <summary_comparison_output type="string" ></summary_comparison_output>
+    <detailed_comparison_output type="string" ></detailed_comparison_output>
+    <scorers type="Container" >
+     <count type="int" >0</count>
+    </scorers>
+    <rescore_output type="string" ></rescore_output>
+    <score_csv_file type="string" >scores.csv</score_csv_file>
+    <map_dimension type="int" >3</map_dimension>
+    <map_output type="string" ></map_output>
+    <dissimilarity_output type="string" ></dissimilarity_output>
+    <cluster_analysers type="Container" >
+     <count type="int" >0</count>
+    </cluster_analysers>
+    <cluster_selections type="Container" >
+     <count type="int" >0</count>
+    </cluster_selections>
+    <steps type="Container" >
+     <count type="int" >0</count>
+    </steps>
+    <job_name type="string" ></job_name>
+   </value>
+  </configuration>
+  <results type="Container" >
+   <count type="int" >4</count>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::RunMode" >
+     <enumerator type="int" >0</enumerator>
+    </first>
+    <second type="Handle" >
+     <serial_number type="int" >3</serial_number>
+     <value type="Container" >
+      <count type="int" >0</count>
+     </value>
+    </second>
+   </item>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::RunMode" >
+     <enumerator type="int" >1</enumerator>
+    </first>
+    <second type="Handle" >
+     <serial_number type="int" >4</serial_number>
+     <value type="Container" >
+      <count type="int" >0</count>
+     </value>
+    </second>
+   </item>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::RunMode" >
+     <enumerator type="int" >2</enumerator>
+    </first>
+    <second type="Handle" >
+     <serial_number type="int" >5</serial_number>
+     <value type="Container" >
+      <count type="int" >0</count>
+     </value>
+    </second>
+   </item>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::RunMode" >
+     <enumerator type="int" >4</enumerator>
+    </first>
+    <second type="Handle" >
+     <serial_number type="int" >6</serial_number>
+     <value type="Container" >
+      <count type="int" >1</count>
+      <item type="Handle" >
+       <serial_number type="int" >7</serial_number>
+       <value type="PharmacophoreProject::PharmacophoreResultSet" >
+        <name type="string" >default</name>
+        <directory type="string" >.</directory>
+        <mode type="PharmacophoreProject::RunMode" >
+         <enumerator type="int" >4</enumerator>
+        </mode>
+        <files type="Container" >
+         <count type="int" >0</count>
+        </files>
+        <file_visibility type="Container" >
+         <count type="int" >0</count>
+        </file_visibility>
+        <headers type="Container" >
+         <count type="int" >0</count>
+        </headers>
+        <number_of_solutions type="int" >0</number_of_solutions>
+        <input_molecule_files type="Container" >
+         <count type="int" >0</count>
+        </input_molecule_files>
+        <conformer_files type="Container" >
+         <count type="int" >0</count>
+        </conformer_files>
+        <feature_file type="string" ></feature_file>
+        <ligand_ids type="Container" >
+         <count type="int" >0</count>
+        </ligand_ids>
+       </value>
+      </item>
+     </value>
+    </second>
+   </item>
+  </results>
+  <current_result_index type="int" >-1</current_result_index>
+  <current_result_mode type="PharmacophoreProject::RunMode" >
+   <enumerator type="int" >4</enumerator>
+  </current_result_mode>
+  <file_load_status type="Container" >
+   <count type="int" >4</count>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::PharmacophoreResultSet::ResultType" >
+     <enumerator type="int" >0</enumerator>
+    </first>
+    <second type="bool" >true</second>
+   </item>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::PharmacophoreResultSet::ResultType" >
+     <enumerator type="int" >3</enumerator>
+    </first>
+    <second type="bool" >true</second>
+   </item>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::PharmacophoreResultSet::ResultType" >
+     <enumerator type="int" >4</enumerator>
+    </first>
+    <second type="bool" >true</second>
+   </item>
+   <item type="Pair" >
+    <first type="PharmacophoreProject::PharmacophoreResultSet::ResultType" >
+     <enumerator type="int" >5</enumerator>
+    </first>
+    <second type="bool" >true</second>
+   </item>
+  </file_load_status>
+ </ligand_overlay_config>
+</All>

@@ -1,0 +1,33 @@
+# BOND_ATOMS zero based
+
+BOND_ID 0
+COMMENT Prevent CH3 groups spinning
+SMARTS_DEF [H,B,c,C,n,N,o,O,F,Si,P,s,S,Cl,Br,I]~[B,c,C,n,N,O,Si,P,S][CH3]H
+BOND_ATOMS 1 2
+
+BOND_ID 1
+COMMENT Prevent NH3 groups spinning
+SMARTS_DEF [H,B,c,C,n,N,o,O,F,Si,P,s,S,Cl,Br,I]~[B,c,C,n,N,O,Si,P,S][NH3]H
+BOND_ATOMS 1 2
+
+BOND_ID 2
+COMMENT Prevent NH2 groups spinning
+SMARTS_DEF [H,B,c,C,n,N,o,O,F,Si,P,s,S,Cl,Br,I]~[B,c,C,n,N,O,Si,P,S][NX3H2]H
+BOND_ATOMS 1 2
+
+BOND_ID 3
+COMMENT Prevent NH groups spinning
+SMARTS_DEF [H,B,c,C,n,N,o,O,F,Si,P,s,S,Cl,Br,I]~[B,c,C,n,N,O,Si,P,S][NX2H1]H
+BOND_ATOMS 1 2
+
+BOND_ID 4
+COMMENT Prevent OH groups spinning
+SMARTS_DEF [H,B,c,C,n,N,o,O,F,Si,P,s,S,Cl,Br,I]~[B,c,C,n,N,O,Si,P,S][OX2H1]H
+BOND_ATOMS 1 2
+
+BOND_ID 5
+COMMENT Prevent SH groups spinning
+SMARTS_DEF [H,B,c,C,n,N,o,O,F,Si,P,s,S,Cl,Br,I]~[B,c,C,n,N,O,Si,P,S][SX2H1]H
+BOND_ATOMS 1 2
+
+

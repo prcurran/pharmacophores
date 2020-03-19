@@ -1,0 +1,19 @@
+# SuperStar Peaks : CARBONYL OXYGEN
+
+@<TRIPOS>MOLECULE
+peaks
+    8     0     8
+SMALL
+SuperStar
+
+
+@<TRIPOS>ATOM
+      1 DU1       26.5980    0.7576   65.3722 Du         1 PEAK1        46.1423
+      2 DU2       23.2104    7.5898   61.0597 Du         2 PEAK2         3.8829
+      3 DU3       26.8465    9.7747   62.0754 Du         3 PEAK3         3.6580
+      4 DU4       23.6621    1.3839   63.5944 Du         4 PEAK4         3.5359
+      5 DU5       23.1394    2.8000   61.7190 Du         5 PEAK5         3.3007
+      6 DU6       24.4470    9.2771   60.7401 Du         6 PEAK6         3.2042
+      7 DU7       28.5004    9.7976   63.8105 Du         7 PEAK7         2.9550
+      8 DU8       22.5210    5.4061   60.4651 Du         8 PEAK8         2.7636
+@<TRIPOS>BOND

@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+pharmacophore_model
+     4     0     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD - Crystal connectivity not present
+
+@<TRIPOS>ATOM
+     1 2.737391260167862    0.5000   3.5000   4.5000   C.3       1 RES1   0.0000
+     2 6.305526515183762    2.0000   3.5000   6.0000   O.3       1 RES1   0.0000
+     3 4.69987624359493    0.0000   2.5000   3.5000   O.3       1 RES1   0.0000
+     4 3.226600859299641    0.5000   2.5000   5.0000   N.3       1 RES1   0.0000
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  

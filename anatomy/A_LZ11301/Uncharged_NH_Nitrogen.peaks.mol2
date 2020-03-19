@@ -1,0 +1,19 @@
+# SuperStar Peaks : UNCHARGED NH NITROGEN
+
+@<TRIPOS>MOLECULE
+peaks
+    8     0     8
+SMALL
+SuperStar
+
+
+@<TRIPOS>ATOM
+      1 DU1       30.2173    2.7710   67.5152 Du         1 PEAK1        18.9031
+      2 DU2       30.0181    4.4108   62.4562 Du         2 PEAK2         2.6367
+      3 DU3       26.7892    6.6803   67.8180 Du         3 PEAK3         2.6343
+      4 DU4       31.4159    4.9790   63.7841 Du         4 PEAK4         2.5797
+      5 DU5       27.9624    4.7765   60.9348 Du         5 PEAK5         2.1897
+      6 DU6       30.6889    2.9111   63.9056 Du         6 PEAK6         2.0756
+      7 DU7       23.9277    6.6615   65.7197 Du         7 PEAK7         1.8707
+      8 DU8       27.3000    4.6282   68.5878 Du         8 PEAK8         1.7707
+@<TRIPOS>BOND
