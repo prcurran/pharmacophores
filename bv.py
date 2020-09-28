@@ -16,15 +16,17 @@ def hot_calc(inputs):
     hr = runner.from_protein(p, nprocesses=3, cavities=mol)
 
     for p, g in hr.super_grids.items():
-        g = g.max_value_of_neighbours()
+        hr.super_grids[p] = g.max_value_of_neighbours()
+
+    # with HotspotReader(os.path.join(pdir, "out.zip")) as r:
+    #     hr = [h for h in r.read() if h.identifier == "hotspot"][0]
 
     e = Extractor(hr)
     bv = e.extract_volume(volume=250)
 
     # smoothing
     for p, g in bv.super_grids.items():
-        h = g.gaussian()
-        bv.super_grids[p] = h
+        bv.super_grids[p] = g.gaussian(sigma=0.5)
 
     bv.identifier = "bestvol"
     hr.identifier = "hotspot"
@@ -43,10 +45,12 @@ if __name__ == "__main__":
 
     infos = zip(pdbs, targets)
 
-    dirs = [os.path.join("/home/pcurran/github_packages/pharmacophores/patel", info[1], info[0])
+    dirs = [os.path.join("/local/pcurran/patel", info[1], info[0])
             for info in infos]
 
     inputs = zip(pdbs, hetids, dirs)
 
-    for ins in inputs:
+    for i, ins in enumerate(inputs):
+        if i > 0:
+            break
         hot_calc(ins)

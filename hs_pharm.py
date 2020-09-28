@@ -26,8 +26,10 @@ if __name__ == "__main__":
 
     infos = zip(pdbs, targets)
 
-    dirs = [os.path.join("/home/pcurran/github_packages/pharmacophores/patel", info[1], info[0], "out.zip")
+    dirs = [os.path.join("/local/pcurran/patel", info[1], info[0], "out.zip")
             for info in infos]
 
-    for d in dirs:
+    for i, d in enumerate(dirs):
+        if i > 0:
+            break
         pharms(d)

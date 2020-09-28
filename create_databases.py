@@ -1,9 +1,11 @@
-from ccdc.pharmacophore import Pharmacophore
-import tempfile, os
-from ccdc import io
-from ccdc.utilities import Colour, Timer
-from ccdc import conformer
+import os
 from multiprocessing import Pool
+
+from ccdc import conformer
+from ccdc import io
+from ccdc.pharmacophore import Pharmacophore
+from ccdc.utilities import Colour, Timer
+from tqdm import tqdm
 
 
 def run_conformers(inputs):
@@ -71,6 +73,8 @@ def create_feature_db(mol_files, outdir, dbname="test"):
 
         # Create structure databases
         mol_sqlx = os.path.join(outdir, os.path.basename(mol_file).replace('.mol2', '.csdsqlx'))
+        if not os.path.exists(outdir):
+            os.mkdir(outdir)
         mol_sdb = Pharmacophore.FeatureDatabase.Creator.StructureDatabase(mol_struc,
                                                                           use_crystal_symmetry=False,
                                                                           structure_database_path=mol_sqlx)
@@ -80,31 +84,35 @@ def create_feature_db(mol_files, outdir, dbname="test"):
     settings = Pharmacophore.FeatureDatabase.Creator.Settings(feature_definition_directory=f_defs, n_threads=6)
     creator = Pharmacophore.FeatureDatabase.Creator(settings=settings)
     db = creator.create(sdbs)
-    db.write(os.path.join(outdir, f"{dbname}.feat"))
+    db.write(os.path.join(os.path.dirname(outdir), f"{dbname}.feat"))
 
 
 if __name__ == "__main__":
     timer = Timer()
-
-    with timer(tag='chunk_actives'):
-        actives = chunk_files("/local/pcurran/patel/CDK2/screening_files/actives_final.mol2",
-                              outdir="/local/pcurran/patel/CDK2/screening_files/chunks")
-
-    with timer(tag='chunk_decoys'):
-        decoys = chunk_files("/local/pcurran/patel/CDK2/screening_files/decoys_final.mol2",
-                             outdir="/local/pcurran/patel/CDK2/screening_files/chunks")
+    #
+    # with timer(tag='chunk_actives'):
+    #     actives = chunk_files("/local/pcurran/patel/CDK2/screening_files/actives_final.mol2",
+    #                           outdir="/local/pcurran/patel/CDK2/screening_files/chunks")
+    #
+    # with timer(tag='chunk_decoys'):
+    #     decoys = chunk_files("/local/pcurran/patel/CDK2/screening_files/decoys_final.mol2",
+    #                          outdir="/local/pcurran/patel/CDK2/screening_files/chunks")
+    #
+    # outdir = "/local/pcurran/patel/CDK2/screening_files/conformers"
+    # all_mols = actives + decoys
+    #
+    # inputs = zip(all_mols, len(all_mols) * [outdir])
+    #
+    # # maxtaskperchild allows childs to regenerate, mitigating incremental resource hogs
+    # with timer(tag='conf_generation'):
+    #     with Pool(processes=6, maxtasksperchild=1) as pool:
+    #         list(tqdm(pool.imap_unordered(run_conformers, inputs, chunksize=1), total=len(actives + decoys)))
 
     outdir = "/local/pcurran/patel/CDK2/screening_files/conformers"
-    all_mols = actives + decoys
-    inputs = zip(all_mols, len(all_mols) * [outdir])
-
-    with timer(tag='conf_generation'):
-        with Pool(processes=6) as pool:
-            pool.map(run_conformers, inputs)
-
     confs = [os.path.join(outdir, f) for f in os.listdir(outdir)]
-    with timer(tag='create_featdb'):
-        create_feature_db(confs, outdir="patel/CDK2", dbname="CDK2")
 
-    with open("patel/CDK2/out.txt", "w") as f:
+    with timer(tag='create_featdb'):
+        create_feature_db(confs, outdir="/local/pcurran/patel/CDK2/screening_files/structure_db", dbname="CDK2")
+
+    with open("/local/pcurran/patel/CDK2/out.txt", "w") as f:
         timer.report(f)
