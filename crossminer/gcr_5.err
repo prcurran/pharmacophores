@@ -1,0 +1,2907 @@
+filtered feature database size 274306
+1 n_searched = 0 n_hits = 0
+2 n_searched = 600 n_hits = 0
+3 n_searched = 1400 n_hits = 0
+4 n_searched = 2250 n_hits = 0
+5 n_searched = 2800 n_hits = 0
+6 n_searched = 3200 n_hits = 0
+7 n_searched = 3500 n_hits = 0
+8 n_searched = 3900 n_hits = 0
+9 n_searched = 4150 n_hits = 0
+10 n_searched = 4400 n_hits = 0
+11 n_searched = 4700 n_hits = 0
+12 n_searched = 4900 n_hits = 0
+13 n_searched = 5000 n_hits = 0
+14 n_searched = 5250 n_hits = 0
+15 n_searched = 5450 n_hits = 0
+16 n_searched = 5700 n_hits = 0
+17 n_searched = 5900 n_hits = 0
+18 n_searched = 6250 n_hits = 0
+19 n_searched = 6450 n_hits = 0
+20 n_searched = 6600 n_hits = 0
+21 n_searched = 6750 n_hits = 1
+22 n_searched = 6850 n_hits = 1
+23 n_searched = 7150 n_hits = 1
+24 n_searched = 7350 n_hits = 1
+25 n_searched = 7600 n_hits = 1
+26 n_searched = 7900 n_hits = 1
+27 n_searched = 8050 n_hits = 1
+28 n_searched = 8200 n_hits = 1
+29 n_searched = 8300 n_hits = 1
+30 n_searched = 8500 n_hits = 1
+31 n_searched = 8750 n_hits = 1
+32 n_searched = 8800 n_hits = 1
+33 n_searched = 9000 n_hits = 1
+34 n_searched = 9100 n_hits = 1
+35 n_searched = 9250 n_hits = 1
+36 n_searched = 9400 n_hits = 1
+37 n_searched = 9450 n_hits = 1
+38 n_searched = 9550 n_hits = 1
+39 n_searched = 9750 n_hits = 1
+40 n_searched = 10050 n_hits = 1
+41 n_searched = 10200 n_hits = 1
+42 n_searched = 10300 n_hits = 1
+43 n_searched = 10500 n_hits = 1
+44 n_searched = 10650 n_hits = 1
+45 n_searched = 10900 n_hits = 1
+46 n_searched = 11000 n_hits = 1
+47 n_searched = 11150 n_hits = 1
+48 n_searched = 11350 n_hits = 1
+49 n_searched = 11450 n_hits = 1
+50 n_searched = 11750 n_hits = 1
+51 n_searched = 11900 n_hits = 1
+52 n_searched = 11950 n_hits = 1
+53 n_searched = 12100 n_hits = 1
+54 n_searched = 12200 n_hits = 1
+55 n_searched = 12500 n_hits = 1
+56 n_searched = 12700 n_hits = 1
+57 n_searched = 12800 n_hits = 1
+58 n_searched = 12950 n_hits = 1
+59 n_searched = 13100 n_hits = 1
+60 n_searched = 13350 n_hits = 1
+61 n_searched = 13450 n_hits = 1
+62 n_searched = 13600 n_hits = 1
+63 n_searched = 13800 n_hits = 1
+64 n_searched = 13900 n_hits = 1
+65 n_searched = 14000 n_hits = 1
+66 n_searched = 14100 n_hits = 1
+67 n_searched = 14450 n_hits = 1
+68 n_searched = 14550 n_hits = 1
+69 n_searched = 14750 n_hits = 1
+70 n_searched = 14900 n_hits = 1
+71 n_searched = 14950 n_hits = 1
+72 n_searched = 15250 n_hits = 1
+73 n_searched = 15350 n_hits = 1
+74 n_searched = 15400 n_hits = 1
+75 n_searched = 15550 n_hits = 1
+76 n_searched = 15650 n_hits = 1
+77 n_searched = 15900 n_hits = 1
+78 n_searched = 16100 n_hits = 1
+79 n_searched = 16300 n_hits = 1
+80 n_searched = 16400 n_hits = 1
+81 n_searched = 16500 n_hits = 1
+82 n_searched = 16550 n_hits = 1
+83 n_searched = 16650 n_hits = 1
+84 n_searched = 16750 n_hits = 1
+85 n_searched = 16800 n_hits = 1
+86 n_searched = 16900 n_hits = 1
+87 n_searched = 17000 n_hits = 1
+88 n_searched = 17150 n_hits = 1
+89 n_searched = 17350 n_hits = 1
+90 n_searched = 17550 n_hits = 1
+91 n_searched = 17600 n_hits = 1
+92 n_searched = 17600 n_hits = 1
+93 n_searched = 17750 n_hits = 1
+94 n_searched = 17900 n_hits = 1
+95 n_searched = 18150 n_hits = 1
+96 n_searched = 18300 n_hits = 1
+97 n_searched = 18450 n_hits = 1
+98 n_searched = 18600 n_hits = 1
+99 n_searched = 18700 n_hits = 1
+100 n_searched = 18850 n_hits = 1
+101 n_searched = 18850 n_hits = 1
+102 n_searched = 18950 n_hits = 1
+103 n_searched = 19150 n_hits = 1
+104 n_searched = 19400 n_hits = 1
+105 n_searched = 19450 n_hits = 1
+106 n_searched = 19700 n_hits = 1
+107 n_searched = 19850 n_hits = 1
+108 n_searched = 20000 n_hits = 1
+109 n_searched = 20100 n_hits = 1
+110 n_searched = 20300 n_hits = 1
+111 n_searched = 20450 n_hits = 1
+112 n_searched = 20550 n_hits = 1
+113 n_searched = 20600 n_hits = 1
+114 n_searched = 20650 n_hits = 1
+115 n_searched = 20850 n_hits = 1
+116 n_searched = 21150 n_hits = 1
+117 n_searched = 21300 n_hits = 1
+118 n_searched = 21400 n_hits = 1
+119 n_searched = 21400 n_hits = 1
+120 n_searched = 21500 n_hits = 1
+121 n_searched = 21650 n_hits = 1
+122 n_searched = 21800 n_hits = 1
+123 n_searched = 21850 n_hits = 1
+124 n_searched = 22100 n_hits = 1
+125 n_searched = 22300 n_hits = 1
+126 n_searched = 22400 n_hits = 1
+127 n_searched = 22550 n_hits = 1
+128 n_searched = 22600 n_hits = 1
+129 n_searched = 22750 n_hits = 1
+130 n_searched = 22950 n_hits = 1
+131 n_searched = 23100 n_hits = 1
+132 n_searched = 23250 n_hits = 1
+133 n_searched = 23350 n_hits = 1
+134 n_searched = 23400 n_hits = 1
+135 n_searched = 23550 n_hits = 1
+136 n_searched = 23750 n_hits = 1
+137 n_searched = 23900 n_hits = 1
+138 n_searched = 23950 n_hits = 1
+139 n_searched = 23950 n_hits = 1
+140 n_searched = 24050 n_hits = 1
+141 n_searched = 24200 n_hits = 1
+142 n_searched = 24350 n_hits = 1
+143 n_searched = 24600 n_hits = 1
+144 n_searched = 24600 n_hits = 1
+145 n_searched = 24700 n_hits = 1
+146 n_searched = 24900 n_hits = 1
+147 n_searched = 25050 n_hits = 1
+148 n_searched = 25250 n_hits = 1
+149 n_searched = 25300 n_hits = 1
+150 n_searched = 25400 n_hits = 1
+151 n_searched = 25600 n_hits = 1
+152 n_searched = 25750 n_hits = 1
+153 n_searched = 26000 n_hits = 1
+154 n_searched = 26100 n_hits = 1
+155 n_searched = 26200 n_hits = 1
+156 n_searched = 26200 n_hits = 1
+157 n_searched = 26250 n_hits = 1
+158 n_searched = 26400 n_hits = 1
+159 n_searched = 26550 n_hits = 1
+160 n_searched = 26650 n_hits = 1
+161 n_searched = 26750 n_hits = 1
+162 n_searched = 26800 n_hits = 1
+163 n_searched = 26950 n_hits = 1
+164 n_searched = 27150 n_hits = 1
+165 n_searched = 27200 n_hits = 1
+166 n_searched = 27350 n_hits = 1
+167 n_searched = 27500 n_hits = 1
+168 n_searched = 27650 n_hits = 1
+169 n_searched = 27800 n_hits = 1
+170 n_searched = 27850 n_hits = 1
+171 n_searched = 27950 n_hits = 1
+172 n_searched = 28000 n_hits = 1
+173 n_searched = 28250 n_hits = 1
+174 n_searched = 28350 n_hits = 1
+175 n_searched = 28450 n_hits = 2
+176 n_searched = 28600 n_hits = 2
+177 n_searched = 28600 n_hits = 2
+178 n_searched = 28900 n_hits = 3
+179 n_searched = 29050 n_hits = 4
+180 n_searched = 29100 n_hits = 5
+181 n_searched = 29250 n_hits = 5
+182 n_searched = 29350 n_hits = 6
+183 n_searched = 29450 n_hits = 7
+184 n_searched = 29500 n_hits = 7
+185 n_searched = 29550 n_hits = 8
+186 n_searched = 29650 n_hits = 8
+187 n_searched = 29800 n_hits = 8
+188 n_searched = 29900 n_hits = 8
+189 n_searched = 29950 n_hits = 8
+190 n_searched = 30050 n_hits = 8
+191 n_searched = 30150 n_hits = 8
+192 n_searched = 30250 n_hits = 9
+193 n_searched = 30350 n_hits = 10
+194 n_searched = 30550 n_hits = 10
+195 n_searched = 30750 n_hits = 10
+196 n_searched = 30800 n_hits = 10
+197 n_searched = 31000 n_hits = 11
+198 n_searched = 31200 n_hits = 12
+199 n_searched = 31200 n_hits = 12
+200 n_searched = 31250 n_hits = 12
+201 n_searched = 31400 n_hits = 12
+202 n_searched = 31600 n_hits = 12
+203 n_searched = 31800 n_hits = 12
+204 n_searched = 31900 n_hits = 13
+205 n_searched = 31900 n_hits = 14
+206 n_searched = 31900 n_hits = 14
+207 n_searched = 32100 n_hits = 14
+208 n_searched = 32200 n_hits = 15
+209 n_searched = 32250 n_hits = 15
+210 n_searched = 32550 n_hits = 16
+211 n_searched = 32600 n_hits = 16
+212 n_searched = 32800 n_hits = 16
+213 n_searched = 33000 n_hits = 16
+214 n_searched = 33100 n_hits = 17
+215 n_searched = 33200 n_hits = 17
+216 n_searched = 33400 n_hits = 17
+217 n_searched = 33550 n_hits = 18
+218 n_searched = 33600 n_hits = 19
+219 n_searched = 33750 n_hits = 19
+220 n_searched = 34050 n_hits = 19
+221 n_searched = 34150 n_hits = 19
+222 n_searched = 34150 n_hits = 20
+223 n_searched = 34250 n_hits = 20
+224 n_searched = 34350 n_hits = 21
+225 n_searched = 34550 n_hits = 21
+226 n_searched = 34550 n_hits = 23
+227 n_searched = 34700 n_hits = 24
+228 n_searched = 34850 n_hits = 24
+229 n_searched = 34950 n_hits = 24
+230 n_searched = 35100 n_hits = 25
+231 n_searched = 35350 n_hits = 27
+232 n_searched = 35400 n_hits = 27
+233 n_searched = 35550 n_hits = 27
+234 n_searched = 35700 n_hits = 27
+235 n_searched = 35850 n_hits = 28
+236 n_searched = 35900 n_hits = 28
+237 n_searched = 36000 n_hits = 28
+238 n_searched = 36100 n_hits = 28
+239 n_searched = 36200 n_hits = 28
+240 n_searched = 36350 n_hits = 28
+241 n_searched = 36600 n_hits = 28
+242 n_searched = 36750 n_hits = 28
+243 n_searched = 36850 n_hits = 28
+244 n_searched = 37000 n_hits = 28
+245 n_searched = 37050 n_hits = 28
+246 n_searched = 37200 n_hits = 28
+247 n_searched = 37300 n_hits = 28
+248 n_searched = 37400 n_hits = 28
+249 n_searched = 37450 n_hits = 28
+250 n_searched = 37700 n_hits = 28
+251 n_searched = 37750 n_hits = 28
+252 n_searched = 37850 n_hits = 28
+253 n_searched = 37950 n_hits = 28
+254 n_searched = 38150 n_hits = 28
+255 n_searched = 38200 n_hits = 28
+256 n_searched = 38300 n_hits = 28
+257 n_searched = 38450 n_hits = 28
+258 n_searched = 38600 n_hits = 28
+259 n_searched = 38750 n_hits = 28
+260 n_searched = 38850 n_hits = 28
+261 n_searched = 38950 n_hits = 28
+262 n_searched = 39100 n_hits = 28
+263 n_searched = 39150 n_hits = 28
+264 n_searched = 39300 n_hits = 28
+265 n_searched = 39450 n_hits = 28
+266 n_searched = 39550 n_hits = 28
+267 n_searched = 39750 n_hits = 28
+268 n_searched = 39900 n_hits = 28
+269 n_searched = 39950 n_hits = 28
+270 n_searched = 40050 n_hits = 28
+271 n_searched = 40200 n_hits = 28
+272 n_searched = 40250 n_hits = 28
+273 n_searched = 40450 n_hits = 28
+274 n_searched = 40650 n_hits = 28
+275 n_searched = 40800 n_hits = 28
+276 n_searched = 40950 n_hits = 28
+277 n_searched = 41100 n_hits = 28
+278 n_searched = 41300 n_hits = 28
+279 n_searched = 41450 n_hits = 28
+280 n_searched = 41550 n_hits = 28
+281 n_searched = 41600 n_hits = 28
+282 n_searched = 41800 n_hits = 28
+283 n_searched = 41850 n_hits = 28
+284 n_searched = 41900 n_hits = 28
+285 n_searched = 42000 n_hits = 28
+286 n_searched = 42100 n_hits = 28
+287 n_searched = 42200 n_hits = 28
+288 n_searched = 42400 n_hits = 28
+289 n_searched = 42550 n_hits = 28
+290 n_searched = 42650 n_hits = 28
+291 n_searched = 42850 n_hits = 28
+292 n_searched = 43050 n_hits = 28
+293 n_searched = 43100 n_hits = 28
+294 n_searched = 43150 n_hits = 28
+295 n_searched = 43250 n_hits = 28
+296 n_searched = 43450 n_hits = 28
+297 n_searched = 43750 n_hits = 28
+298 n_searched = 43900 n_hits = 28
+299 n_searched = 43950 n_hits = 28
+300 n_searched = 43950 n_hits = 28
+301 n_searched = 44050 n_hits = 28
+302 n_searched = 44150 n_hits = 28
+303 n_searched = 44300 n_hits = 28
+304 n_searched = 44600 n_hits = 28
+305 n_searched = 44800 n_hits = 28
+306 n_searched = 44850 n_hits = 28
+307 n_searched = 45000 n_hits = 28
+308 n_searched = 45000 n_hits = 28
+309 n_searched = 45200 n_hits = 28
+310 n_searched = 45300 n_hits = 28
+311 n_searched = 45500 n_hits = 28
+312 n_searched = 45600 n_hits = 28
+313 n_searched = 45650 n_hits = 28
+314 n_searched = 45700 n_hits = 28
+315 n_searched = 45850 n_hits = 28
+316 n_searched = 45950 n_hits = 28
+317 n_searched = 46100 n_hits = 28
+318 n_searched = 46350 n_hits = 28
+319 n_searched = 46350 n_hits = 28
+320 n_searched = 46500 n_hits = 28
+321 n_searched = 46700 n_hits = 28
+322 n_searched = 46750 n_hits = 28
+323 n_searched = 47000 n_hits = 28
+324 n_searched = 47050 n_hits = 28
+325 n_searched = 47200 n_hits = 28
+326 n_searched = 47350 n_hits = 28
+327 n_searched = 47450 n_hits = 28
+328 n_searched = 47550 n_hits = 28
+329 n_searched = 47650 n_hits = 28
+330 n_searched = 47850 n_hits = 28
+331 n_searched = 47900 n_hits = 28
+332 n_searched = 48000 n_hits = 28
+333 n_searched = 48150 n_hits = 28
+334 n_searched = 48250 n_hits = 28
+335 n_searched = 48500 n_hits = 28
+336 n_searched = 48650 n_hits = 28
+337 n_searched = 48800 n_hits = 28
+338 n_searched = 48850 n_hits = 28
+339 n_searched = 48900 n_hits = 28
+340 n_searched = 48900 n_hits = 28
+341 n_searched = 49100 n_hits = 28
+342 n_searched = 49150 n_hits = 28
+343 n_searched = 49300 n_hits = 28
+344 n_searched = 49400 n_hits = 28
+345 n_searched = 49600 n_hits = 28
+346 n_searched = 49650 n_hits = 28
+347 n_searched = 49750 n_hits = 28
+348 n_searched = 49950 n_hits = 28
+349 n_searched = 50050 n_hits = 28
+350 n_searched = 50250 n_hits = 28
+351 n_searched = 50350 n_hits = 28
+352 n_searched = 50450 n_hits = 28
+353 n_searched = 50550 n_hits = 28
+354 n_searched = 50700 n_hits = 28
+355 n_searched = 50850 n_hits = 28
+356 n_searched = 50950 n_hits = 28
+357 n_searched = 51050 n_hits = 28
+358 n_searched = 51200 n_hits = 28
+359 n_searched = 51350 n_hits = 28
+360 n_searched = 51450 n_hits = 28
+361 n_searched = 51600 n_hits = 28
+362 n_searched = 51750 n_hits = 28
+363 n_searched = 52000 n_hits = 28
+364 n_searched = 52100 n_hits = 28
+365 n_searched = 52200 n_hits = 28
+366 n_searched = 52300 n_hits = 28
+367 n_searched = 52400 n_hits = 28
+368 n_searched = 52550 n_hits = 28
+369 n_searched = 52700 n_hits = 28
+370 n_searched = 52750 n_hits = 28
+371 n_searched = 52850 n_hits = 28
+372 n_searched = 52900 n_hits = 28
+373 n_searched = 53150 n_hits = 28
+374 n_searched = 53200 n_hits = 28
+375 n_searched = 53300 n_hits = 28
+376 n_searched = 53400 n_hits = 28
+377 n_searched = 53700 n_hits = 28
+378 n_searched = 53850 n_hits = 28
+379 n_searched = 54050 n_hits = 28
+380 n_searched = 54050 n_hits = 28
+381 n_searched = 54200 n_hits = 28
+382 n_searched = 54400 n_hits = 28
+383 n_searched = 54450 n_hits = 28
+384 n_searched = 54650 n_hits = 28
+385 n_searched = 54650 n_hits = 28
+386 n_searched = 54750 n_hits = 28
+387 n_searched = 55150 n_hits = 28
+388 n_searched = 55250 n_hits = 28
+389 n_searched = 55250 n_hits = 28
+390 n_searched = 55300 n_hits = 28
+391 n_searched = 55400 n_hits = 28
+392 n_searched = 55500 n_hits = 28
+393 n_searched = 55600 n_hits = 28
+394 n_searched = 55650 n_hits = 28
+395 n_searched = 55900 n_hits = 28
+396 n_searched = 56150 n_hits = 28
+397 n_searched = 56200 n_hits = 28
+398 n_searched = 56300 n_hits = 28
+399 n_searched = 56400 n_hits = 28
+400 n_searched = 56450 n_hits = 28
+401 n_searched = 56650 n_hits = 28
+402 n_searched = 56850 n_hits = 28
+403 n_searched = 57000 n_hits = 28
+404 n_searched = 57150 n_hits = 28
+405 n_searched = 57250 n_hits = 28
+406 n_searched = 57350 n_hits = 28
+407 n_searched = 57550 n_hits = 28
+408 n_searched = 57600 n_hits = 28
+409 n_searched = 57650 n_hits = 28
+410 n_searched = 57800 n_hits = 28
+411 n_searched = 57850 n_hits = 28
+412 n_searched = 58050 n_hits = 28
+413 n_searched = 58250 n_hits = 28
+414 n_searched = 58350 n_hits = 28
+415 n_searched = 58450 n_hits = 28
+416 n_searched = 58600 n_hits = 28
+417 n_searched = 58700 n_hits = 28
+418 n_searched = 58800 n_hits = 28
+419 n_searched = 58900 n_hits = 28
+420 n_searched = 59000 n_hits = 28
+421 n_searched = 59300 n_hits = 28
+422 n_searched = 59350 n_hits = 28
+423 n_searched = 59350 n_hits = 28
+424 n_searched = 59450 n_hits = 28
+425 n_searched = 59550 n_hits = 28
+426 n_searched = 59750 n_hits = 28
+427 n_searched = 59800 n_hits = 28
+428 n_searched = 59900 n_hits = 28
+429 n_searched = 60150 n_hits = 28
+430 n_searched = 60250 n_hits = 28
+431 n_searched = 60450 n_hits = 28
+432 n_searched = 60550 n_hits = 28
+433 n_searched = 60600 n_hits = 28
+434 n_searched = 60850 n_hits = 28
+435 n_searched = 60950 n_hits = 28
+436 n_searched = 61050 n_hits = 28
+437 n_searched = 61100 n_hits = 28
+438 n_searched = 61150 n_hits = 28
+439 n_searched = 61300 n_hits = 28
+440 n_searched = 61350 n_hits = 28
+441 n_searched = 61650 n_hits = 28
+442 n_searched = 61650 n_hits = 28
+443 n_searched = 61850 n_hits = 28
+444 n_searched = 61900 n_hits = 28
+445 n_searched = 62050 n_hits = 28
+446 n_searched = 62350 n_hits = 28
+447 n_searched = 62400 n_hits = 28
+448 n_searched = 62500 n_hits = 28
+449 n_searched = 62650 n_hits = 28
+450 n_searched = 62650 n_hits = 28
+451 n_searched = 62800 n_hits = 28
+452 n_searched = 62900 n_hits = 28
+453 n_searched = 62950 n_hits = 28
+454 n_searched = 63200 n_hits = 28
+455 n_searched = 63250 n_hits = 28
+456 n_searched = 63400 n_hits = 28
+457 n_searched = 63500 n_hits = 28
+458 n_searched = 63700 n_hits = 28
+459 n_searched = 63800 n_hits = 28
+460 n_searched = 63900 n_hits = 28
+461 n_searched = 63950 n_hits = 28
+462 n_searched = 64050 n_hits = 28
+463 n_searched = 64300 n_hits = 28
+464 n_searched = 64400 n_hits = 28
+465 n_searched = 64500 n_hits = 28
+466 n_searched = 64600 n_hits = 28
+467 n_searched = 64600 n_hits = 28
+468 n_searched = 64800 n_hits = 28
+469 n_searched = 64900 n_hits = 28
+470 n_searched = 65100 n_hits = 28
+471 n_searched = 65300 n_hits = 28
+472 n_searched = 65550 n_hits = 28
+473 n_searched = 65550 n_hits = 28
+474 n_searched = 65650 n_hits = 28
+475 n_searched = 65650 n_hits = 28
+476 n_searched = 65850 n_hits = 28
+477 n_searched = 65950 n_hits = 28
+478 n_searched = 66050 n_hits = 28
+479 n_searched = 66250 n_hits = 28
+480 n_searched = 66500 n_hits = 28
+481 n_searched = 66500 n_hits = 28
+482 n_searched = 66650 n_hits = 28
+483 n_searched = 66750 n_hits = 28
+484 n_searched = 66800 n_hits = 28
+485 n_searched = 66950 n_hits = 28
+486 n_searched = 67000 n_hits = 28
+487 n_searched = 67100 n_hits = 28
+488 n_searched = 67300 n_hits = 28
+489 n_searched = 67450 n_hits = 28
+490 n_searched = 67650 n_hits = 28
+491 n_searched = 67800 n_hits = 28
+492 n_searched = 67800 n_hits = 28
+493 n_searched = 67900 n_hits = 28
+494 n_searched = 68100 n_hits = 28
+495 n_searched = 68100 n_hits = 28
+496 n_searched = 68200 n_hits = 28
+497 n_searched = 68300 n_hits = 28
+498 n_searched = 68500 n_hits = 28
+499 n_searched = 68650 n_hits = 28
+500 n_searched = 68750 n_hits = 28
+501 n_searched = 68850 n_hits = 28
+502 n_searched = 69000 n_hits = 28
+503 n_searched = 69050 n_hits = 28
+504 n_searched = 69100 n_hits = 28
+505 n_searched = 69300 n_hits = 28
+506 n_searched = 69350 n_hits = 28
+507 n_searched = 69700 n_hits = 28
+508 n_searched = 69750 n_hits = 28
+509 n_searched = 69850 n_hits = 28
+510 n_searched = 70050 n_hits = 28
+511 n_searched = 70100 n_hits = 28
+512 n_searched = 70250 n_hits = 28
+513 n_searched = 70350 n_hits = 28
+514 n_searched = 70450 n_hits = 28
+515 n_searched = 70500 n_hits = 28
+516 n_searched = 70700 n_hits = 28
+517 n_searched = 70850 n_hits = 28
+518 n_searched = 70950 n_hits = 28
+519 n_searched = 71100 n_hits = 28
+520 n_searched = 71150 n_hits = 28
+521 n_searched = 71300 n_hits = 28
+522 n_searched = 71450 n_hits = 28
+523 n_searched = 71650 n_hits = 28
+524 n_searched = 71800 n_hits = 28
+525 n_searched = 71950 n_hits = 28
+526 n_searched = 72000 n_hits = 28
+527 n_searched = 72100 n_hits = 28
+528 n_searched = 72100 n_hits = 28
+529 n_searched = 72150 n_hits = 28
+530 n_searched = 72250 n_hits = 28
+531 n_searched = 72450 n_hits = 28
+532 n_searched = 72550 n_hits = 28
+533 n_searched = 72750 n_hits = 28
+534 n_searched = 72800 n_hits = 28
+535 n_searched = 72850 n_hits = 28
+536 n_searched = 73000 n_hits = 28
+537 n_searched = 73100 n_hits = 28
+538 n_searched = 73350 n_hits = 28
+539 n_searched = 73550 n_hits = 28
+540 n_searched = 73600 n_hits = 28
+541 n_searched = 73850 n_hits = 28
+542 n_searched = 73900 n_hits = 28
+543 n_searched = 73950 n_hits = 28
+544 n_searched = 74100 n_hits = 28
+545 n_searched = 74350 n_hits = 28
+546 n_searched = 74350 n_hits = 28
+547 n_searched = 74450 n_hits = 28
+548 n_searched = 74500 n_hits = 28
+549 n_searched = 74650 n_hits = 28
+550 n_searched = 74650 n_hits = 28
+551 n_searched = 74850 n_hits = 28
+552 n_searched = 74950 n_hits = 28
+553 n_searched = 75100 n_hits = 28
+554 n_searched = 75150 n_hits = 28
+555 n_searched = 75200 n_hits = 28
+556 n_searched = 75500 n_hits = 28
+557 n_searched = 75600 n_hits = 28
+558 n_searched = 75650 n_hits = 28
+559 n_searched = 75750 n_hits = 28
+560 n_searched = 75850 n_hits = 28
+561 n_searched = 75900 n_hits = 28
+562 n_searched = 76000 n_hits = 28
+563 n_searched = 76150 n_hits = 28
+564 n_searched = 76150 n_hits = 28
+565 n_searched = 76350 n_hits = 28
+566 n_searched = 76500 n_hits = 28
+567 n_searched = 76600 n_hits = 28
+568 n_searched = 76750 n_hits = 28
+569 n_searched = 76850 n_hits = 28
+570 n_searched = 76950 n_hits = 28
+571 n_searched = 77150 n_hits = 28
+572 n_searched = 77150 n_hits = 28
+573 n_searched = 77200 n_hits = 28
+574 n_searched = 77400 n_hits = 28
+575 n_searched = 77550 n_hits = 28
+576 n_searched = 77600 n_hits = 28
+577 n_searched = 77750 n_hits = 28
+578 n_searched = 77850 n_hits = 28
+579 n_searched = 77950 n_hits = 28
+580 n_searched = 78000 n_hits = 28
+581 n_searched = 78050 n_hits = 28
+582 n_searched = 78150 n_hits = 28
+583 n_searched = 78350 n_hits = 28
+584 n_searched = 78450 n_hits = 28
+585 n_searched = 78550 n_hits = 28
+586 n_searched = 78650 n_hits = 28
+587 n_searched = 78800 n_hits = 28
+588 n_searched = 79000 n_hits = 28
+589 n_searched = 79100 n_hits = 28
+590 n_searched = 79300 n_hits = 28
+591 n_searched = 79350 n_hits = 28
+592 n_searched = 79450 n_hits = 28
+593 n_searched = 79650 n_hits = 28
+594 n_searched = 79700 n_hits = 28
+595 n_searched = 79850 n_hits = 28
+596 n_searched = 79900 n_hits = 28
+597 n_searched = 80000 n_hits = 28
+598 n_searched = 80100 n_hits = 28
+599 n_searched = 80200 n_hits = 28
+600 n_searched = 80300 n_hits = 28
+601 n_searched = 80400 n_hits = 28
+602 n_searched = 80550 n_hits = 28
+603 n_searched = 80750 n_hits = 28
+604 n_searched = 81000 n_hits = 28
+605 n_searched = 81100 n_hits = 28
+606 n_searched = 81200 n_hits = 28
+607 n_searched = 81350 n_hits = 28
+608 n_searched = 81400 n_hits = 28
+609 n_searched = 81450 n_hits = 28
+610 n_searched = 81600 n_hits = 28
+611 n_searched = 81700 n_hits = 28
+612 n_searched = 81750 n_hits = 28
+613 n_searched = 81900 n_hits = 28
+614 n_searched = 82000 n_hits = 28
+615 n_searched = 82250 n_hits = 28
+616 n_searched = 82450 n_hits = 28
+617 n_searched = 82450 n_hits = 28
+618 n_searched = 82550 n_hits = 28
+619 n_searched = 82650 n_hits = 28
+620 n_searched = 82650 n_hits = 28
+621 n_searched = 82700 n_hits = 28
+622 n_searched = 82750 n_hits = 28
+623 n_searched = 83050 n_hits = 28
+624 n_searched = 83150 n_hits = 28
+625 n_searched = 83350 n_hits = 28
+626 n_searched = 83500 n_hits = 28
+627 n_searched = 83500 n_hits = 28
+628 n_searched = 83600 n_hits = 28
+629 n_searched = 83700 n_hits = 28
+630 n_searched = 83800 n_hits = 28
+631 n_searched = 84000 n_hits = 28
+632 n_searched = 84100 n_hits = 28
+633 n_searched = 84150 n_hits = 28
+634 n_searched = 84300 n_hits = 28
+635 n_searched = 84400 n_hits = 28
+636 n_searched = 84600 n_hits = 28
+637 n_searched = 84700 n_hits = 28
+638 n_searched = 84900 n_hits = 28
+639 n_searched = 85100 n_hits = 28
+640 n_searched = 85200 n_hits = 28
+641 n_searched = 85200 n_hits = 28
+642 n_searched = 85200 n_hits = 28
+643 n_searched = 85400 n_hits = 28
+644 n_searched = 85500 n_hits = 28
+645 n_searched = 85550 n_hits = 28
+646 n_searched = 85700 n_hits = 28
+647 n_searched = 85750 n_hits = 28
+648 n_searched = 86000 n_hits = 28
+649 n_searched = 86150 n_hits = 28
+650 n_searched = 86150 n_hits = 28
+651 n_searched = 86250 n_hits = 28
+652 n_searched = 86350 n_hits = 28
+653 n_searched = 86450 n_hits = 28
+654 n_searched = 86500 n_hits = 28
+655 n_searched = 86700 n_hits = 28
+656 n_searched = 86850 n_hits = 28
+657 n_searched = 86950 n_hits = 28
+658 n_searched = 87100 n_hits = 28
+659 n_searched = 87300 n_hits = 28
+660 n_searched = 87400 n_hits = 28
+661 n_searched = 87500 n_hits = 28
+662 n_searched = 87600 n_hits = 28
+663 n_searched = 87750 n_hits = 28
+664 n_searched = 87800 n_hits = 28
+665 n_searched = 87850 n_hits = 28
+666 n_searched = 88000 n_hits = 28
+667 n_searched = 88100 n_hits = 28
+668 n_searched = 88250 n_hits = 28
+669 n_searched = 88500 n_hits = 28
+670 n_searched = 88600 n_hits = 28
+671 n_searched = 88600 n_hits = 28
+672 n_searched = 88750 n_hits = 28
+673 n_searched = 88800 n_hits = 28
+674 n_searched = 88800 n_hits = 28
+675 n_searched = 88800 n_hits = 28
+676 n_searched = 89000 n_hits = 28
+677 n_searched = 89100 n_hits = 28
+678 n_searched = 89300 n_hits = 28
+679 n_searched = 89400 n_hits = 28
+680 n_searched = 89600 n_hits = 28
+681 n_searched = 89600 n_hits = 28
+682 n_searched = 89650 n_hits = 28
+683 n_searched = 89800 n_hits = 28
+684 n_searched = 89800 n_hits = 28
+685 n_searched = 89900 n_hits = 28
+686 n_searched = 90150 n_hits = 28
+687 n_searched = 90300 n_hits = 28
+688 n_searched = 90400 n_hits = 28
+689 n_searched = 90500 n_hits = 28
+690 n_searched = 90750 n_hits = 28
+691 n_searched = 90850 n_hits = 28
+692 n_searched = 90950 n_hits = 28
+693 n_searched = 91000 n_hits = 28
+694 n_searched = 91150 n_hits = 28
+695 n_searched = 91150 n_hits = 29
+696 n_searched = 91200 n_hits = 30
+697 n_searched = 91300 n_hits = 30
+698 n_searched = 91600 n_hits = 30
+699 n_searched = 91650 n_hits = 31
+700 n_searched = 91800 n_hits = 31
+701 n_searched = 91950 n_hits = 32
+702 n_searched = 92050 n_hits = 32
+703 n_searched = 92250 n_hits = 32
+704 n_searched = 92400 n_hits = 32
+705 n_searched = 92450 n_hits = 32
+706 n_searched = 92500 n_hits = 32
+707 n_searched = 92550 n_hits = 32
+708 n_searched = 92750 n_hits = 32
+709 n_searched = 92900 n_hits = 32
+710 n_searched = 92900 n_hits = 32
+711 n_searched = 93100 n_hits = 32
+712 n_searched = 93100 n_hits = 32
+713 n_searched = 93150 n_hits = 32
+714 n_searched = 93300 n_hits = 32
+715 n_searched = 93350 n_hits = 32
+716 n_searched = 93400 n_hits = 32
+717 n_searched = 93600 n_hits = 32
+718 n_searched = 93800 n_hits = 32
+719 n_searched = 93900 n_hits = 32
+720 n_searched = 94050 n_hits = 32
+721 n_searched = 94100 n_hits = 32
+722 n_searched = 94200 n_hits = 32
+723 n_searched = 94350 n_hits = 32
+724 n_searched = 94350 n_hits = 32
+725 n_searched = 94500 n_hits = 32
+726 n_searched = 94650 n_hits = 32
+727 n_searched = 94750 n_hits = 32
+728 n_searched = 94750 n_hits = 32
+729 n_searched = 94900 n_hits = 32
+730 n_searched = 95000 n_hits = 32
+731 n_searched = 95150 n_hits = 32
+732 n_searched = 95250 n_hits = 32
+733 n_searched = 95400 n_hits = 32
+734 n_searched = 95550 n_hits = 32
+735 n_searched = 95550 n_hits = 32
+736 n_searched = 95650 n_hits = 32
+737 n_searched = 95800 n_hits = 32
+738 n_searched = 95850 n_hits = 32
+739 n_searched = 96000 n_hits = 32
+740 n_searched = 96000 n_hits = 32
+741 n_searched = 96050 n_hits = 32
+742 n_searched = 96200 n_hits = 32
+743 n_searched = 96300 n_hits = 32
+744 n_searched = 96450 n_hits = 32
+745 n_searched = 96550 n_hits = 32
+746 n_searched = 96650 n_hits = 32
+747 n_searched = 96850 n_hits = 32
+748 n_searched = 97000 n_hits = 32
+749 n_searched = 97150 n_hits = 32
+750 n_searched = 97250 n_hits = 32
+751 n_searched = 97350 n_hits = 32
+752 n_searched = 97400 n_hits = 32
+753 n_searched = 97500 n_hits = 32
+754 n_searched = 97500 n_hits = 32
+755 n_searched = 97550 n_hits = 32
+756 n_searched = 97650 n_hits = 32
+757 n_searched = 97750 n_hits = 32
+758 n_searched = 97900 n_hits = 32
+759 n_searched = 98050 n_hits = 32
+760 n_searched = 98150 n_hits = 32
+761 n_searched = 98400 n_hits = 32
+762 n_searched = 98450 n_hits = 32
+763 n_searched = 98500 n_hits = 32
+764 n_searched = 98600 n_hits = 32
+765 n_searched = 98700 n_hits = 32
+766 n_searched = 98750 n_hits = 32
+767 n_searched = 98850 n_hits = 32
+768 n_searched = 99000 n_hits = 32
+769 n_searched = 99050 n_hits = 32
+770 n_searched = 99250 n_hits = 32
+771 n_searched = 99400 n_hits = 32
+772 n_searched = 99450 n_hits = 32
+773 n_searched = 99700 n_hits = 32
+774 n_searched = 99850 n_hits = 32
+775 n_searched = 100050 n_hits = 32
+776 n_searched = 100100 n_hits = 32
+777 n_searched = 100200 n_hits = 32
+778 n_searched = 100350 n_hits = 32
+779 n_searched = 100400 n_hits = 32
+780 n_searched = 100450 n_hits = 32
+781 n_searched = 100550 n_hits = 32
+782 n_searched = 100600 n_hits = 32
+783 n_searched = 100750 n_hits = 32
+784 n_searched = 100750 n_hits = 32
+785 n_searched = 101050 n_hits = 33
+786 n_searched = 101100 n_hits = 33
+787 n_searched = 101350 n_hits = 33
+788 n_searched = 101450 n_hits = 33
+789 n_searched = 101450 n_hits = 33
+790 n_searched = 101450 n_hits = 33
+791 n_searched = 101450 n_hits = 33
+792 n_searched = 101500 n_hits = 33
+793 n_searched = 101800 n_hits = 33
+794 n_searched = 101950 n_hits = 33
+795 n_searched = 102050 n_hits = 33
+796 n_searched = 102250 n_hits = 33
+797 n_searched = 102300 n_hits = 33
+798 n_searched = 102500 n_hits = 33
+799 n_searched = 102550 n_hits = 33
+800 n_searched = 102600 n_hits = 33
+801 n_searched = 102650 n_hits = 33
+802 n_searched = 102700 n_hits = 33
+803 n_searched = 102850 n_hits = 33
+804 n_searched = 102950 n_hits = 33
+805 n_searched = 103000 n_hits = 33
+806 n_searched = 103250 n_hits = 33
+807 n_searched = 103400 n_hits = 33
+808 n_searched = 103500 n_hits = 33
+809 n_searched = 103600 n_hits = 33
+810 n_searched = 103650 n_hits = 33
+811 n_searched = 103750 n_hits = 33
+812 n_searched = 103800 n_hits = 33
+813 n_searched = 104000 n_hits = 33
+814 n_searched = 104100 n_hits = 33
+815 n_searched = 104100 n_hits = 33
+816 n_searched = 104200 n_hits = 33
+817 n_searched = 104450 n_hits = 33
+818 n_searched = 104500 n_hits = 33
+819 n_searched = 104600 n_hits = 33
+820 n_searched = 104700 n_hits = 33
+821 n_searched = 104900 n_hits = 33
+822 n_searched = 104950 n_hits = 33
+823 n_searched = 105000 n_hits = 33
+824 n_searched = 105100 n_hits = 33
+825 n_searched = 105200 n_hits = 33
+826 n_searched = 105300 n_hits = 33
+827 n_searched = 105550 n_hits = 33
+828 n_searched = 105550 n_hits = 33
+829 n_searched = 105600 n_hits = 33
+830 n_searched = 105750 n_hits = 33
+831 n_searched = 105900 n_hits = 33
+832 n_searched = 106000 n_hits = 33
+833 n_searched = 106050 n_hits = 33
+834 n_searched = 106150 n_hits = 33
+835 n_searched = 106200 n_hits = 33
+836 n_searched = 106450 n_hits = 33
+837 n_searched = 106550 n_hits = 33
+838 n_searched = 106600 n_hits = 33
+839 n_searched = 106700 n_hits = 33
+840 n_searched = 106750 n_hits = 33
+841 n_searched = 106900 n_hits = 33
+842 n_searched = 106950 n_hits = 33
+843 n_searched = 107000 n_hits = 33
+844 n_searched = 107250 n_hits = 33
+845 n_searched = 107300 n_hits = 33
+846 n_searched = 107450 n_hits = 33
+847 n_searched = 107550 n_hits = 33
+848 n_searched = 107600 n_hits = 33
+849 n_searched = 107750 n_hits = 33
+850 n_searched = 107800 n_hits = 33
+851 n_searched = 107850 n_hits = 33
+852 n_searched = 108000 n_hits = 33
+853 n_searched = 108150 n_hits = 33
+854 n_searched = 108200 n_hits = 33
+855 n_searched = 108450 n_hits = 33
+856 n_searched = 108550 n_hits = 33
+857 n_searched = 108700 n_hits = 33
+858 n_searched = 108750 n_hits = 33
+859 n_searched = 108850 n_hits = 33
+860 n_searched = 108900 n_hits = 33
+861 n_searched = 109000 n_hits = 33
+862 n_searched = 109050 n_hits = 33
+863 n_searched = 109200 n_hits = 33
+864 n_searched = 109250 n_hits = 33
+865 n_searched = 109400 n_hits = 33
+866 n_searched = 109500 n_hits = 33
+867 n_searched = 109550 n_hits = 33
+868 n_searched = 109650 n_hits = 33
+869 n_searched = 109850 n_hits = 33
+870 n_searched = 109900 n_hits = 33
+871 n_searched = 110100 n_hits = 33
+872 n_searched = 110100 n_hits = 33
+873 n_searched = 110250 n_hits = 33
+874 n_searched = 110300 n_hits = 33
+875 n_searched = 110450 n_hits = 33
+876 n_searched = 110550 n_hits = 33
+877 n_searched = 110650 n_hits = 33
+878 n_searched = 110850 n_hits = 33
+879 n_searched = 111000 n_hits = 33
+880 n_searched = 111050 n_hits = 33
+881 n_searched = 111100 n_hits = 33
+882 n_searched = 111200 n_hits = 33
+883 n_searched = 111250 n_hits = 33
+884 n_searched = 111250 n_hits = 33
+885 n_searched = 111450 n_hits = 33
+886 n_searched = 111550 n_hits = 33
+887 n_searched = 111600 n_hits = 33
+888 n_searched = 111800 n_hits = 33
+889 n_searched = 111900 n_hits = 33
+890 n_searched = 112050 n_hits = 33
+891 n_searched = 112100 n_hits = 33
+892 n_searched = 112150 n_hits = 33
+893 n_searched = 112250 n_hits = 33
+894 n_searched = 112450 n_hits = 33
+895 n_searched = 112600 n_hits = 33
+896 n_searched = 112850 n_hits = 33
+897 n_searched = 112900 n_hits = 33
+898 n_searched = 112900 n_hits = 33
+899 n_searched = 113000 n_hits = 33
+900 n_searched = 113000 n_hits = 33
+901 n_searched = 113200 n_hits = 33
+902 n_searched = 113250 n_hits = 33
+903 n_searched = 113400 n_hits = 33
+904 n_searched = 113500 n_hits = 33
+905 n_searched = 113550 n_hits = 33
+906 n_searched = 113750 n_hits = 33
+907 n_searched = 113850 n_hits = 33
+908 n_searched = 113900 n_hits = 33
+909 n_searched = 113900 n_hits = 33
+910 n_searched = 114150 n_hits = 33
+911 n_searched = 114250 n_hits = 33
+912 n_searched = 114300 n_hits = 34
+913 n_searched = 114300 n_hits = 34
+914 n_searched = 114450 n_hits = 34
+915 n_searched = 114700 n_hits = 34
+916 n_searched = 114800 n_hits = 34
+917 n_searched = 114950 n_hits = 34
+918 n_searched = 115000 n_hits = 34
+919 n_searched = 115150 n_hits = 34
+920 n_searched = 115200 n_hits = 34
+921 n_searched = 115250 n_hits = 34
+922 n_searched = 115400 n_hits = 34
+923 n_searched = 115450 n_hits = 34
+924 n_searched = 115550 n_hits = 34
+925 n_searched = 115800 n_hits = 34
+926 n_searched = 115950 n_hits = 34
+927 n_searched = 115950 n_hits = 34
+928 n_searched = 116000 n_hits = 34
+929 n_searched = 116150 n_hits = 34
+930 n_searched = 116300 n_hits = 34
+931 n_searched = 116400 n_hits = 34
+932 n_searched = 116500 n_hits = 34
+933 n_searched = 116550 n_hits = 34
+934 n_searched = 116650 n_hits = 34
+935 n_searched = 116850 n_hits = 34
+936 n_searched = 116900 n_hits = 34
+937 n_searched = 117000 n_hits = 34
+938 n_searched = 117150 n_hits = 34
+939 n_searched = 117150 n_hits = 34
+940 n_searched = 117300 n_hits = 34
+941 n_searched = 117400 n_hits = 34
+942 n_searched = 117550 n_hits = 34
+943 n_searched = 117550 n_hits = 34
+944 n_searched = 117650 n_hits = 34
+945 n_searched = 117800 n_hits = 34
+946 n_searched = 117950 n_hits = 34
+947 n_searched = 118100 n_hits = 34
+948 n_searched = 118300 n_hits = 34
+949 n_searched = 118400 n_hits = 34
+950 n_searched = 118550 n_hits = 34
+951 n_searched = 118600 n_hits = 34
+952 n_searched = 118600 n_hits = 34
+953 n_searched = 118750 n_hits = 34
+954 n_searched = 118750 n_hits = 34
+955 n_searched = 118850 n_hits = 34
+956 n_searched = 118950 n_hits = 34
+957 n_searched = 119050 n_hits = 34
+958 n_searched = 119100 n_hits = 34
+959 n_searched = 119200 n_hits = 34
+960 n_searched = 119200 n_hits = 34
+961 n_searched = 119350 n_hits = 34
+962 n_searched = 119550 n_hits = 34
+963 n_searched = 119800 n_hits = 34
+964 n_searched = 119850 n_hits = 34
+965 n_searched = 119950 n_hits = 34
+966 n_searched = 119950 n_hits = 34
+967 n_searched = 120050 n_hits = 34
+968 n_searched = 120150 n_hits = 34
+969 n_searched = 120200 n_hits = 34
+970 n_searched = 120300 n_hits = 34
+971 n_searched = 120500 n_hits = 34
+972 n_searched = 120700 n_hits = 34
+973 n_searched = 120800 n_hits = 34
+974 n_searched = 120800 n_hits = 34
+975 n_searched = 121100 n_hits = 34
+976 n_searched = 121150 n_hits = 34
+977 n_searched = 121200 n_hits = 34
+978 n_searched = 121350 n_hits = 34
+979 n_searched = 121400 n_hits = 34
+980 n_searched = 121500 n_hits = 34
+981 n_searched = 121600 n_hits = 34
+982 n_searched = 121750 n_hits = 34
+983 n_searched = 121850 n_hits = 34
+984 n_searched = 121850 n_hits = 34
+985 n_searched = 122100 n_hits = 34
+986 n_searched = 122200 n_hits = 34
+987 n_searched = 122350 n_hits = 34
+988 n_searched = 122400 n_hits = 34
+989 n_searched = 122450 n_hits = 34
+990 n_searched = 122550 n_hits = 34
+991 n_searched = 122750 n_hits = 34
+992 n_searched = 122750 n_hits = 34
+993 n_searched = 122900 n_hits = 34
+994 n_searched = 122950 n_hits = 34
+995 n_searched = 123050 n_hits = 34
+996 n_searched = 123200 n_hits = 34
+997 n_searched = 123350 n_hits = 34
+998 n_searched = 123450 n_hits = 34
+999 n_searched = 123550 n_hits = 34
+1000 n_searched = 123650 n_hits = 34
+1001 n_searched = 123750 n_hits = 34
+1002 n_searched = 123750 n_hits = 34
+1003 n_searched = 123900 n_hits = 34
+1004 n_searched = 124100 n_hits = 34
+1005 n_searched = 124350 n_hits = 34
+1006 n_searched = 124400 n_hits = 34
+1007 n_searched = 124400 n_hits = 34
+1008 n_searched = 124500 n_hits = 34
+1009 n_searched = 124550 n_hits = 34
+1010 n_searched = 124700 n_hits = 34
+1011 n_searched = 124750 n_hits = 34
+1012 n_searched = 124750 n_hits = 34
+1013 n_searched = 124750 n_hits = 34
+1014 n_searched = 124900 n_hits = 34
+1015 n_searched = 125100 n_hits = 34
+1016 n_searched = 125100 n_hits = 34
+1017 n_searched = 125250 n_hits = 34
+1018 n_searched = 125400 n_hits = 34
+1019 n_searched = 125550 n_hits = 34
+1020 n_searched = 125700 n_hits = 34
+1021 n_searched = 125850 n_hits = 34
+1022 n_searched = 125950 n_hits = 34
+1023 n_searched = 126000 n_hits = 34
+1024 n_searched = 126100 n_hits = 34
+1025 n_searched = 126250 n_hits = 34
+1026 n_searched = 126300 n_hits = 34
+1027 n_searched = 126400 n_hits = 34
+1028 n_searched = 126500 n_hits = 34
+1029 n_searched = 126750 n_hits = 34
+1030 n_searched = 126850 n_hits = 34
+1031 n_searched = 126850 n_hits = 34
+1032 n_searched = 126900 n_hits = 34
+1033 n_searched = 127150 n_hits = 34
+1034 n_searched = 127350 n_hits = 34
+1035 n_searched = 127400 n_hits = 34
+1036 n_searched = 127450 n_hits = 34
+1037 n_searched = 127450 n_hits = 34
+1038 n_searched = 127550 n_hits = 34
+1039 n_searched = 127700 n_hits = 34
+1040 n_searched = 127900 n_hits = 34
+1041 n_searched = 127950 n_hits = 35
+1042 n_searched = 128050 n_hits = 35
+1043 n_searched = 128250 n_hits = 35
+1044 n_searched = 128400 n_hits = 35
+1045 n_searched = 128400 n_hits = 35
+1046 n_searched = 128500 n_hits = 35
+1047 n_searched = 128550 n_hits = 35
+1048 n_searched = 128650 n_hits = 35
+1049 n_searched = 128750 n_hits = 35
+1050 n_searched = 128800 n_hits = 36
+1051 n_searched = 128900 n_hits = 36
+1052 n_searched = 128900 n_hits = 37
+1053 n_searched = 128950 n_hits = 37
+1054 n_searched = 129100 n_hits = 37
+1055 n_searched = 129250 n_hits = 37
+1056 n_searched = 129450 n_hits = 37
+1057 n_searched = 129600 n_hits = 37
+1058 n_searched = 129700 n_hits = 37
+1059 n_searched = 129800 n_hits = 37
+1060 n_searched = 129900 n_hits = 37
+1061 n_searched = 129950 n_hits = 37
+1062 n_searched = 130000 n_hits = 37
+1063 n_searched = 130100 n_hits = 37
+1064 n_searched = 130250 n_hits = 37
+1065 n_searched = 130300 n_hits = 37
+1066 n_searched = 130450 n_hits = 37
+1067 n_searched = 130500 n_hits = 37
+1068 n_searched = 130650 n_hits = 37
+1069 n_searched = 130750 n_hits = 37
+1070 n_searched = 130950 n_hits = 37
+1071 n_searched = 130950 n_hits = 37
+1072 n_searched = 131100 n_hits = 37
+1073 n_searched = 131150 n_hits = 37
+1074 n_searched = 131200 n_hits = 37
+1075 n_searched = 131250 n_hits = 37
+1076 n_searched = 131400 n_hits = 37
+1077 n_searched = 131550 n_hits = 37
+1078 n_searched = 131700 n_hits = 37
+1079 n_searched = 131700 n_hits = 37
+1080 n_searched = 131750 n_hits = 37
+1081 n_searched = 131950 n_hits = 37
+1082 n_searched = 132100 n_hits = 37
+1083 n_searched = 132250 n_hits = 37
+1084 n_searched = 132250 n_hits = 37
+1085 n_searched = 132350 n_hits = 37
+1086 n_searched = 132450 n_hits = 37
+1087 n_searched = 132500 n_hits = 37
+1088 n_searched = 132600 n_hits = 37
+1089 n_searched = 132700 n_hits = 37
+1090 n_searched = 132950 n_hits = 37
+1091 n_searched = 132950 n_hits = 37
+1092 n_searched = 133150 n_hits = 37
+1093 n_searched = 133250 n_hits = 37
+1094 n_searched = 133350 n_hits = 37
+1095 n_searched = 133400 n_hits = 37
+1096 n_searched = 133450 n_hits = 37
+1097 n_searched = 133550 n_hits = 37
+1098 n_searched = 133700 n_hits = 37
+1099 n_searched = 133800 n_hits = 37
+1100 n_searched = 133950 n_hits = 37
+1101 n_searched = 133950 n_hits = 37
+1102 n_searched = 134050 n_hits = 37
+1103 n_searched = 134200 n_hits = 37
+1104 n_searched = 134250 n_hits = 37
+1105 n_searched = 134450 n_hits = 37
+1106 n_searched = 134600 n_hits = 37
+1107 n_searched = 134650 n_hits = 37
+1108 n_searched = 134750 n_hits = 37
+1109 n_searched = 134850 n_hits = 37
+1110 n_searched = 134850 n_hits = 37
+1111 n_searched = 134900 n_hits = 37
+1112 n_searched = 135100 n_hits = 37
+1113 n_searched = 135350 n_hits = 37
+1114 n_searched = 135450 n_hits = 37
+1115 n_searched = 135550 n_hits = 37
+1116 n_searched = 135600 n_hits = 37
+1117 n_searched = 135650 n_hits = 37
+1118 n_searched = 135850 n_hits = 37
+1119 n_searched = 135850 n_hits = 37
+1120 n_searched = 136000 n_hits = 37
+1121 n_searched = 136000 n_hits = 37
+1122 n_searched = 136050 n_hits = 37
+1123 n_searched = 136200 n_hits = 37
+1124 n_searched = 136350 n_hits = 37
+1125 n_searched = 136550 n_hits = 37
+1126 n_searched = 136650 n_hits = 37
+1127 n_searched = 136750 n_hits = 37
+1128 n_searched = 136800 n_hits = 37
+1129 n_searched = 136850 n_hits = 37
+1130 n_searched = 137050 n_hits = 37
+1131 n_searched = 137150 n_hits = 37
+1132 n_searched = 137300 n_hits = 37
+1133 n_searched = 137400 n_hits = 37
+1134 n_searched = 137450 n_hits = 37
+1135 n_searched = 137500 n_hits = 37
+1136 n_searched = 137500 n_hits = 37
+1137 n_searched = 137650 n_hits = 37
+1138 n_searched = 137850 n_hits = 37
+1139 n_searched = 138000 n_hits = 37
+1140 n_searched = 138150 n_hits = 37
+1141 n_searched = 138200 n_hits = 37
+1142 n_searched = 138300 n_hits = 37
+1143 n_searched = 138400 n_hits = 37
+1144 n_searched = 138450 n_hits = 38
+1145 n_searched = 138550 n_hits = 38
+1146 n_searched = 138650 n_hits = 39
+1147 n_searched = 138750 n_hits = 39
+1148 n_searched = 138850 n_hits = 39
+1149 n_searched = 138900 n_hits = 39
+1150 n_searched = 139000 n_hits = 39
+1151 n_searched = 139150 n_hits = 39
+1152 n_searched = 139200 n_hits = 39
+1153 n_searched = 139450 n_hits = 39
+1154 n_searched = 139600 n_hits = 39
+1155 n_searched = 139650 n_hits = 39
+1156 n_searched = 139800 n_hits = 39
+1157 n_searched = 139950 n_hits = 39
+1158 n_searched = 140000 n_hits = 39
+1159 n_searched = 140000 n_hits = 39
+1160 n_searched = 140200 n_hits = 39
+1161 n_searched = 140250 n_hits = 39
+1162 n_searched = 140400 n_hits = 39
+1163 n_searched = 140450 n_hits = 39
+1164 n_searched = 140550 n_hits = 40
+1165 n_searched = 140600 n_hits = 40
+1166 n_searched = 140700 n_hits = 40
+1167 n_searched = 140800 n_hits = 40
+1168 n_searched = 140950 n_hits = 40
+1169 n_searched = 141000 n_hits = 40
+1170 n_searched = 141100 n_hits = 40
+1171 n_searched = 141350 n_hits = 40
+1172 n_searched = 141500 n_hits = 40
+1173 n_searched = 141550 n_hits = 41
+1174 n_searched = 141650 n_hits = 41
+1175 n_searched = 141650 n_hits = 41
+1176 n_searched = 141700 n_hits = 41
+1177 n_searched = 141800 n_hits = 41
+1178 n_searched = 141850 n_hits = 41
+1179 n_searched = 141850 n_hits = 41
+1180 n_searched = 142050 n_hits = 41
+1181 n_searched = 142200 n_hits = 41
+1182 n_searched = 142250 n_hits = 41
+1183 n_searched = 142500 n_hits = 41
+1184 n_searched = 142550 n_hits = 41
+1185 n_searched = 142650 n_hits = 41
+1186 n_searched = 142700 n_hits = 41
+1187 n_searched = 142750 n_hits = 41
+1188 n_searched = 142900 n_hits = 41
+1189 n_searched = 143000 n_hits = 41
+1190 n_searched = 143100 n_hits = 41
+1191 n_searched = 143250 n_hits = 41
+1192 n_searched = 143400 n_hits = 41
+1193 n_searched = 143400 n_hits = 41
+1194 n_searched = 143550 n_hits = 41
+1195 n_searched = 143550 n_hits = 41
+1196 n_searched = 143650 n_hits = 41
+1197 n_searched = 143750 n_hits = 41
+1198 n_searched = 143900 n_hits = 41
+1199 n_searched = 144100 n_hits = 41
+1200 n_searched = 144200 n_hits = 41
+1201 n_searched = 144300 n_hits = 41
+1202 n_searched = 144350 n_hits = 41
+1203 n_searched = 144450 n_hits = 41
+1204 n_searched = 144550 n_hits = 41
+1205 n_searched = 144650 n_hits = 41
+1206 n_searched = 144750 n_hits = 41
+1207 n_searched = 144800 n_hits = 41
+1208 n_searched = 144900 n_hits = 41
+1209 n_searched = 145050 n_hits = 41
+1210 n_searched = 145150 n_hits = 41
+1211 n_searched = 145150 n_hits = 41
+1212 n_searched = 145150 n_hits = 41
+1213 n_searched = 145300 n_hits = 41
+1214 n_searched = 145400 n_hits = 41
+1215 n_searched = 145500 n_hits = 41
+1216 n_searched = 145650 n_hits = 41
+1217 n_searched = 145750 n_hits = 41
+1218 n_searched = 145750 n_hits = 41
+1219 n_searched = 145900 n_hits = 41
+1220 n_searched = 146100 n_hits = 41
+1221 n_searched = 146250 n_hits = 41
+1222 n_searched = 146300 n_hits = 41
+1223 n_searched = 146400 n_hits = 41
+1224 n_searched = 146400 n_hits = 41
+1225 n_searched = 146550 n_hits = 41
+1226 n_searched = 146700 n_hits = 41
+1227 n_searched = 146700 n_hits = 41
+1228 n_searched = 146750 n_hits = 42
+1229 n_searched = 146850 n_hits = 42
+1230 n_searched = 146900 n_hits = 42
+1231 n_searched = 146950 n_hits = 43
+1232 n_searched = 147150 n_hits = 43
+1233 n_searched = 147300 n_hits = 43
+1234 n_searched = 147500 n_hits = 43
+1235 n_searched = 147650 n_hits = 43
+1236 n_searched = 147750 n_hits = 43
+1237 n_searched = 147850 n_hits = 43
+1238 n_searched = 147900 n_hits = 43
+1239 n_searched = 147900 n_hits = 43
+1240 n_searched = 147950 n_hits = 43
+1241 n_searched = 148150 n_hits = 43
+1242 n_searched = 148300 n_hits = 43
+1243 n_searched = 148350 n_hits = 43
+1244 n_searched = 148500 n_hits = 43
+1245 n_searched = 148650 n_hits = 43
+1246 n_searched = 148700 n_hits = 43
+1247 n_searched = 148750 n_hits = 43
+1248 n_searched = 148900 n_hits = 43
+1249 n_searched = 148950 n_hits = 43
+1250 n_searched = 149100 n_hits = 43
+1251 n_searched = 149250 n_hits = 43
+1252 n_searched = 149300 n_hits = 43
+1253 n_searched = 149450 n_hits = 43
+1254 n_searched = 149600 n_hits = 43
+1255 n_searched = 149650 n_hits = 43
+1256 n_searched = 149800 n_hits = 43
+1257 n_searched = 149900 n_hits = 43
+1258 n_searched = 150050 n_hits = 43
+1259 n_searched = 150100 n_hits = 43
+1260 n_searched = 150300 n_hits = 43
+1261 n_searched = 150350 n_hits = 43
+1262 n_searched = 150350 n_hits = 43
+1263 n_searched = 150600 n_hits = 43
+1264 n_searched = 150650 n_hits = 43
+1265 n_searched = 150650 n_hits = 43
+1266 n_searched = 150750 n_hits = 43
+1267 n_searched = 150850 n_hits = 43
+1268 n_searched = 150950 n_hits = 43
+1269 n_searched = 151050 n_hits = 43
+1270 n_searched = 151200 n_hits = 43
+1271 n_searched = 151250 n_hits = 43
+1272 n_searched = 151350 n_hits = 43
+1273 n_searched = 151400 n_hits = 43
+1274 n_searched = 151600 n_hits = 43
+1275 n_searched = 151650 n_hits = 43
+1276 n_searched = 151750 n_hits = 43
+1277 n_searched = 151900 n_hits = 43
+1278 n_searched = 152100 n_hits = 43
+1279 n_searched = 152100 n_hits = 43
+1280 n_searched = 152250 n_hits = 43
+1281 n_searched = 152300 n_hits = 43
+1282 n_searched = 152400 n_hits = 43
+1283 n_searched = 152400 n_hits = 43
+1284 n_searched = 152550 n_hits = 43
+1285 n_searched = 152600 n_hits = 43
+1286 n_searched = 152750 n_hits = 43
+1287 n_searched = 152950 n_hits = 43
+1288 n_searched = 152950 n_hits = 43
+1289 n_searched = 153150 n_hits = 43
+1290 n_searched = 153150 n_hits = 43
+1291 n_searched = 153200 n_hits = 43
+1292 n_searched = 153300 n_hits = 43
+1293 n_searched = 153350 n_hits = 43
+1294 n_searched = 153450 n_hits = 43
+1295 n_searched = 153600 n_hits = 43
+1296 n_searched = 153750 n_hits = 43
+1297 n_searched = 153800 n_hits = 43
+1298 n_searched = 154050 n_hits = 43
+1299 n_searched = 154200 n_hits = 43
+1300 n_searched = 154250 n_hits = 43
+1301 n_searched = 154300 n_hits = 43
+1302 n_searched = 154450 n_hits = 43
+1303 n_searched = 154500 n_hits = 43
+1304 n_searched = 154550 n_hits = 43
+1305 n_searched = 154700 n_hits = 43
+1306 n_searched = 154750 n_hits = 43
+1307 n_searched = 154850 n_hits = 43
+1308 n_searched = 155000 n_hits = 43
+1309 n_searched = 155150 n_hits = 43
+1310 n_searched = 155150 n_hits = 43
+1311 n_searched = 155350 n_hits = 43
+1312 n_searched = 155400 n_hits = 43
+1313 n_searched = 155550 n_hits = 43
+1314 n_searched = 155700 n_hits = 43
+1315 n_searched = 155700 n_hits = 43
+1316 n_searched = 155850 n_hits = 43
+1317 n_searched = 155950 n_hits = 43
+1318 n_searched = 156050 n_hits = 43
+1319 n_searched = 156300 n_hits = 43
+1320 n_searched = 156400 n_hits = 43
+1321 n_searched = 156450 n_hits = 43
+1322 n_searched = 156550 n_hits = 43
+1323 n_searched = 156600 n_hits = 43
+1324 n_searched = 156650 n_hits = 43
+1325 n_searched = 156700 n_hits = 43
+1326 n_searched = 157000 n_hits = 43
+1327 n_searched = 157100 n_hits = 43
+1328 n_searched = 157200 n_hits = 43
+1329 n_searched = 157200 n_hits = 43
+1330 n_searched = 157250 n_hits = 43
+1331 n_searched = 157350 n_hits = 43
+1332 n_searched = 157400 n_hits = 43
+1333 n_searched = 157550 n_hits = 43
+1334 n_searched = 157750 n_hits = 43
+1335 n_searched = 157950 n_hits = 43
+1336 n_searched = 158050 n_hits = 43
+1337 n_searched = 158100 n_hits = 43
+1338 n_searched = 158100 n_hits = 43
+1339 n_searched = 158150 n_hits = 43
+1340 n_searched = 158400 n_hits = 43
+1341 n_searched = 158500 n_hits = 43
+1342 n_searched = 158500 n_hits = 43
+1343 n_searched = 158600 n_hits = 43
+1344 n_searched = 158750 n_hits = 43
+1345 n_searched = 158750 n_hits = 44
+1346 n_searched = 158850 n_hits = 44
+1347 n_searched = 158900 n_hits = 44
+1348 n_searched = 158900 n_hits = 44
+1349 n_searched = 159000 n_hits = 44
+1350 n_searched = 159150 n_hits = 44
+1351 n_searched = 159200 n_hits = 44
+1352 n_searched = 159250 n_hits = 44
+1353 n_searched = 159500 n_hits = 45
+1354 n_searched = 159650 n_hits = 45
+1355 n_searched = 159750 n_hits = 45
+1356 n_searched = 159850 n_hits = 45
+1357 n_searched = 159950 n_hits = 45
+1358 n_searched = 160050 n_hits = 45
+1359 n_searched = 160150 n_hits = 45
+1360 n_searched = 160200 n_hits = 45
+1361 n_searched = 160400 n_hits = 45
+1362 n_searched = 160500 n_hits = 45
+1363 n_searched = 160600 n_hits = 45
+1364 n_searched = 160650 n_hits = 45
+1365 n_searched = 160800 n_hits = 45
+1366 n_searched = 160850 n_hits = 45
+1367 n_searched = 160900 n_hits = 45
+1368 n_searched = 160950 n_hits = 45
+1369 n_searched = 161000 n_hits = 45
+1370 n_searched = 161250 n_hits = 45
+1371 n_searched = 161400 n_hits = 45
+1372 n_searched = 161500 n_hits = 45
+1373 n_searched = 161600 n_hits = 45
+1374 n_searched = 161600 n_hits = 45
+1375 n_searched = 161650 n_hits = 45
+1376 n_searched = 161850 n_hits = 45
+1377 n_searched = 161900 n_hits = 45
+1378 n_searched = 162100 n_hits = 45
+1379 n_searched = 162100 n_hits = 45
+1380 n_searched = 162200 n_hits = 45
+1381 n_searched = 162250 n_hits = 45
+1382 n_searched = 162400 n_hits = 45
+1383 n_searched = 162600 n_hits = 45
+1384 n_searched = 162850 n_hits = 45
+1385 n_searched = 162900 n_hits = 45
+1386 n_searched = 162950 n_hits = 45
+1387 n_searched = 163000 n_hits = 45
+1388 n_searched = 163150 n_hits = 45
+1389 n_searched = 163250 n_hits = 45
+1390 n_searched = 163300 n_hits = 45
+1391 n_searched = 163300 n_hits = 45
+1392 n_searched = 163400 n_hits = 45
+1393 n_searched = 163550 n_hits = 45
+1394 n_searched = 163600 n_hits = 45
+1395 n_searched = 163700 n_hits = 45
+1396 n_searched = 163750 n_hits = 45
+1397 n_searched = 164000 n_hits = 45
+1398 n_searched = 164200 n_hits = 45
+1399 n_searched = 164200 n_hits = 45
+1400 n_searched = 164300 n_hits = 45
+1401 n_searched = 164350 n_hits = 45
+1402 n_searched = 164350 n_hits = 45
+1403 n_searched = 164500 n_hits = 45
+1404 n_searched = 164700 n_hits = 45
+1405 n_searched = 164800 n_hits = 45
+1406 n_searched = 164900 n_hits = 45
+1407 n_searched = 164950 n_hits = 45
+1408 n_searched = 165000 n_hits = 45
+1409 n_searched = 165150 n_hits = 45
+1410 n_searched = 165200 n_hits = 45
+1411 n_searched = 165350 n_hits = 45
+1412 n_searched = 165350 n_hits = 45
+1413 n_searched = 165600 n_hits = 45
+1414 n_searched = 165600 n_hits = 45
+1415 n_searched = 165700 n_hits = 45
+1416 n_searched = 165900 n_hits = 45
+1417 n_searched = 166000 n_hits = 45
+1418 n_searched = 166000 n_hits = 45
+1419 n_searched = 166150 n_hits = 45
+1420 n_searched = 166250 n_hits = 45
+1421 n_searched = 166350 n_hits = 45
+1422 n_searched = 166500 n_hits = 45
+1423 n_searched = 166550 n_hits = 45
+1424 n_searched = 166700 n_hits = 45
+1425 n_searched = 166750 n_hits = 45
+1426 n_searched = 166850 n_hits = 45
+1427 n_searched = 166950 n_hits = 45
+1428 n_searched = 167000 n_hits = 45
+1429 n_searched = 167050 n_hits = 45
+1430 n_searched = 167150 n_hits = 45
+1431 n_searched = 167200 n_hits = 45
+1432 n_searched = 167350 n_hits = 45
+1433 n_searched = 167500 n_hits = 45
+1434 n_searched = 167700 n_hits = 45
+1435 n_searched = 167850 n_hits = 45
+1436 n_searched = 167850 n_hits = 45
+1437 n_searched = 167900 n_hits = 45
+1438 n_searched = 168150 n_hits = 45
+1439 n_searched = 168150 n_hits = 45
+1440 n_searched = 168250 n_hits = 45
+1441 n_searched = 168250 n_hits = 45
+1442 n_searched = 168400 n_hits = 45
+1443 n_searched = 168400 n_hits = 45
+1444 n_searched = 168600 n_hits = 45
+1445 n_searched = 168700 n_hits = 45
+1446 n_searched = 168900 n_hits = 45
+1447 n_searched = 168950 n_hits = 45
+1448 n_searched = 169000 n_hits = 45
+1449 n_searched = 169150 n_hits = 45
+1450 n_searched = 169250 n_hits = 45
+1451 n_searched = 169350 n_hits = 45
+1452 n_searched = 169500 n_hits = 45
+1453 n_searched = 169550 n_hits = 45
+1454 n_searched = 169600 n_hits = 45
+1455 n_searched = 169650 n_hits = 45
+1456 n_searched = 169700 n_hits = 45
+1457 n_searched = 169850 n_hits = 45
+1458 n_searched = 169900 n_hits = 45
+1459 n_searched = 170000 n_hits = 45
+1460 n_searched = 170100 n_hits = 45
+1461 n_searched = 170250 n_hits = 45
+1462 n_searched = 170350 n_hits = 45
+1463 n_searched = 170400 n_hits = 45
+1464 n_searched = 170600 n_hits = 45
+1465 n_searched = 170700 n_hits = 45
+1466 n_searched = 170800 n_hits = 45
+1467 n_searched = 170850 n_hits = 45
+1468 n_searched = 170950 n_hits = 45
+1469 n_searched = 171100 n_hits = 45
+1470 n_searched = 171100 n_hits = 45
+1471 n_searched = 171300 n_hits = 45
+1472 n_searched = 171350 n_hits = 45
+1473 n_searched = 171450 n_hits = 45
+1474 n_searched = 171450 n_hits = 45
+1475 n_searched = 171700 n_hits = 45
+1476 n_searched = 171950 n_hits = 45
+1477 n_searched = 171950 n_hits = 45
+1478 n_searched = 172000 n_hits = 45
+1479 n_searched = 172100 n_hits = 45
+1480 n_searched = 172150 n_hits = 45
+1481 n_searched = 172400 n_hits = 45
+1482 n_searched = 172450 n_hits = 45
+1483 n_searched = 172550 n_hits = 45
+1484 n_searched = 172550 n_hits = 45
+1485 n_searched = 172650 n_hits = 45
+1486 n_searched = 172800 n_hits = 45
+1487 n_searched = 172900 n_hits = 45
+1488 n_searched = 173000 n_hits = 45
+1489 n_searched = 173100 n_hits = 45
+1490 n_searched = 173200 n_hits = 45
+1491 n_searched = 173300 n_hits = 45
+1492 n_searched = 173350 n_hits = 45
+1493 n_searched = 173450 n_hits = 45
+1494 n_searched = 173500 n_hits = 45
+1495 n_searched = 173550 n_hits = 45
+1496 n_searched = 173550 n_hits = 45
+1497 n_searched = 173750 n_hits = 45
+1498 n_searched = 173800 n_hits = 45
+1499 n_searched = 173900 n_hits = 45
+1500 n_searched = 174100 n_hits = 45
+1501 n_searched = 174150 n_hits = 45
+1502 n_searched = 174250 n_hits = 45
+1503 n_searched = 174450 n_hits = 45
+1504 n_searched = 174500 n_hits = 45
+1505 n_searched = 174600 n_hits = 45
+1506 n_searched = 174750 n_hits = 45
+1507 n_searched = 174750 n_hits = 45
+1508 n_searched = 174750 n_hits = 45
+1509 n_searched = 174800 n_hits = 45
+1510 n_searched = 174950 n_hits = 45
+1511 n_searched = 175100 n_hits = 45
+1512 n_searched = 175200 n_hits = 45
+1513 n_searched = 175250 n_hits = 45
+1514 n_searched = 175500 n_hits = 45
+1515 n_searched = 175550 n_hits = 45
+1516 n_searched = 175650 n_hits = 45
+1517 n_searched = 175750 n_hits = 45
+1518 n_searched = 175850 n_hits = 45
+1519 n_searched = 175900 n_hits = 45
+1520 n_searched = 176000 n_hits = 45
+1521 n_searched = 176000 n_hits = 45
+1522 n_searched = 176150 n_hits = 45
+1523 n_searched = 176150 n_hits = 45
+1524 n_searched = 176300 n_hits = 45
+1525 n_searched = 176450 n_hits = 45
+1526 n_searched = 176650 n_hits = 45
+1527 n_searched = 176650 n_hits = 45
+1528 n_searched = 176750 n_hits = 45
+1529 n_searched = 176900 n_hits = 45
+1530 n_searched = 176950 n_hits = 45
+1531 n_searched = 177050 n_hits = 45
+1532 n_searched = 177200 n_hits = 45
+1533 n_searched = 177250 n_hits = 45
+1534 n_searched = 177300 n_hits = 45
+1535 n_searched = 177450 n_hits = 45
+1536 n_searched = 177450 n_hits = 45
+1537 n_searched = 177550 n_hits = 45
+1538 n_searched = 177600 n_hits = 45
+1539 n_searched = 177650 n_hits = 45
+1540 n_searched = 177850 n_hits = 45
+1541 n_searched = 177850 n_hits = 45
+1542 n_searched = 178100 n_hits = 45
+1543 n_searched = 178250 n_hits = 45
+1544 n_searched = 178350 n_hits = 45
+1545 n_searched = 178350 n_hits = 45
+1546 n_searched = 178450 n_hits = 45
+1547 n_searched = 178500 n_hits = 45
+1548 n_searched = 178550 n_hits = 45
+1549 n_searched = 178700 n_hits = 45
+1550 n_searched = 178800 n_hits = 45
+1551 n_searched = 178850 n_hits = 45
+1552 n_searched = 178950 n_hits = 45
+1553 n_searched = 179050 n_hits = 45
+1554 n_searched = 179150 n_hits = 45
+1555 n_searched = 179300 n_hits = 45
+1556 n_searched = 179400 n_hits = 45
+1557 n_searched = 179650 n_hits = 45
+1558 n_searched = 179700 n_hits = 45
+1559 n_searched = 179700 n_hits = 45
+1560 n_searched = 179750 n_hits = 45
+1561 n_searched = 179850 n_hits = 45
+1562 n_searched = 179900 n_hits = 45
+1563 n_searched = 180100 n_hits = 45
+1564 n_searched = 180100 n_hits = 45
+1565 n_searched = 180200 n_hits = 45
+1566 n_searched = 180400 n_hits = 45
+1567 n_searched = 180500 n_hits = 45
+1568 n_searched = 180550 n_hits = 45
+1569 n_searched = 180650 n_hits = 45
+1570 n_searched = 180700 n_hits = 45
+1571 n_searched = 180800 n_hits = 45
+1572 n_searched = 180900 n_hits = 45
+1573 n_searched = 181000 n_hits = 45
+1574 n_searched = 181150 n_hits = 45
+1575 n_searched = 181300 n_hits = 45
+1576 n_searched = 181400 n_hits = 45
+1577 n_searched = 181450 n_hits = 45
+1578 n_searched = 181500 n_hits = 45
+1579 n_searched = 181500 n_hits = 45
+1580 n_searched = 181650 n_hits = 45
+1581 n_searched = 181650 n_hits = 45
+1582 n_searched = 181750 n_hits = 45
+1583 n_searched = 181900 n_hits = 45
+1584 n_searched = 182000 n_hits = 45
+1585 n_searched = 182200 n_hits = 45
+1586 n_searched = 182300 n_hits = 45
+1587 n_searched = 182400 n_hits = 45
+1588 n_searched = 182450 n_hits = 45
+1589 n_searched = 182550 n_hits = 45
+1590 n_searched = 182600 n_hits = 45
+1591 n_searched = 182600 n_hits = 45
+1592 n_searched = 182750 n_hits = 45
+1593 n_searched = 182900 n_hits = 45
+1594 n_searched = 182950 n_hits = 45
+1595 n_searched = 183000 n_hits = 45
+1596 n_searched = 183050 n_hits = 45
+1597 n_searched = 183200 n_hits = 45
+1598 n_searched = 183250 n_hits = 45
+1599 n_searched = 183400 n_hits = 45
+1600 n_searched = 183450 n_hits = 45
+1601 n_searched = 183650 n_hits = 45
+1602 n_searched = 183850 n_hits = 45
+1603 n_searched = 183900 n_hits = 45
+1604 n_searched = 183950 n_hits = 45
+1605 n_searched = 184000 n_hits = 45
+1606 n_searched = 184050 n_hits = 45
+1607 n_searched = 184100 n_hits = 45
+1608 n_searched = 184350 n_hits = 45
+1609 n_searched = 184550 n_hits = 45
+1610 n_searched = 184600 n_hits = 45
+1611 n_searched = 184600 n_hits = 45
+1612 n_searched = 184650 n_hits = 45
+1613 n_searched = 184750 n_hits = 45
+1614 n_searched = 184900 n_hits = 45
+1615 n_searched = 185000 n_hits = 45
+1616 n_searched = 185100 n_hits = 45
+1617 n_searched = 185150 n_hits = 45
+1618 n_searched = 185250 n_hits = 45
+1619 n_searched = 185400 n_hits = 46
+1620 n_searched = 185500 n_hits = 46
+1621 n_searched = 185600 n_hits = 47
+1622 n_searched = 185650 n_hits = 47
+1623 n_searched = 185750 n_hits = 47
+1624 n_searched = 185900 n_hits = 48
+1625 n_searched = 186050 n_hits = 48
+1626 n_searched = 186200 n_hits = 49
+1627 n_searched = 186300 n_hits = 49
+1628 n_searched = 186400 n_hits = 49
+1629 n_searched = 186450 n_hits = 49
+1630 n_searched = 186500 n_hits = 49
+1631 n_searched = 186500 n_hits = 49
+1632 n_searched = 186500 n_hits = 49
+1633 n_searched = 186600 n_hits = 49
+1634 n_searched = 186700 n_hits = 49
+1635 n_searched = 186800 n_hits = 49
+1636 n_searched = 186900 n_hits = 49
+1637 n_searched = 187000 n_hits = 51
+1638 n_searched = 187150 n_hits = 51
+1639 n_searched = 187300 n_hits = 51
+1640 n_searched = 187350 n_hits = 51
+1641 n_searched = 187500 n_hits = 51
+1642 n_searched = 187500 n_hits = 51
+1643 n_searched = 187600 n_hits = 51
+1644 n_searched = 187650 n_hits = 51
+1645 n_searched = 187800 n_hits = 51
+1646 n_searched = 187850 n_hits = 51
+1647 n_searched = 187950 n_hits = 51
+1648 n_searched = 188100 n_hits = 51
+1649 n_searched = 188300 n_hits = 51
+1650 n_searched = 188400 n_hits = 51
+1651 n_searched = 188450 n_hits = 51
+1652 n_searched = 188500 n_hits = 51
+1653 n_searched = 188650 n_hits = 51
+1654 n_searched = 188750 n_hits = 51
+1655 n_searched = 188900 n_hits = 51
+1656 n_searched = 189000 n_hits = 51
+1657 n_searched = 189050 n_hits = 51
+1658 n_searched = 189150 n_hits = 51
+1659 n_searched = 189250 n_hits = 51
+1660 n_searched = 189300 n_hits = 51
+1661 n_searched = 189350 n_hits = 51
+1662 n_searched = 189400 n_hits = 51
+1663 n_searched = 189500 n_hits = 51
+1664 n_searched = 189650 n_hits = 51
+1665 n_searched = 189650 n_hits = 51
+1666 n_searched = 189850 n_hits = 51
+1667 n_searched = 190000 n_hits = 51
+1668 n_searched = 190100 n_hits = 51
+1669 n_searched = 190200 n_hits = 51
+1670 n_searched = 190250 n_hits = 51
+1671 n_searched = 190350 n_hits = 51
+1672 n_searched = 190400 n_hits = 51
+1673 n_searched = 190500 n_hits = 51
+1674 n_searched = 190500 n_hits = 51
+1675 n_searched = 190650 n_hits = 51
+1676 n_searched = 190700 n_hits = 51
+1677 n_searched = 190900 n_hits = 51
+1678 n_searched = 191000 n_hits = 51
+1679 n_searched = 191200 n_hits = 51
+1680 n_searched = 191200 n_hits = 51
+1681 n_searched = 191250 n_hits = 51
+1682 n_searched = 191300 n_hits = 51
+1683 n_searched = 191400 n_hits = 51
+1684 n_searched = 191450 n_hits = 51
+1685 n_searched = 191500 n_hits = 51
+1686 n_searched = 191600 n_hits = 51
+1687 n_searched = 191700 n_hits = 51
+1688 n_searched = 191750 n_hits = 51
+1689 n_searched = 191950 n_hits = 51
+1690 n_searched = 192200 n_hits = 51
+1691 n_searched = 192250 n_hits = 51
+1692 n_searched = 192350 n_hits = 51
+1693 n_searched = 192450 n_hits = 51
+1694 n_searched = 192450 n_hits = 51
+1695 n_searched = 192500 n_hits = 51
+1696 n_searched = 192650 n_hits = 51
+1697 n_searched = 192700 n_hits = 51
+1698 n_searched = 192700 n_hits = 51
+1699 n_searched = 193000 n_hits = 51
+1700 n_searched = 193050 n_hits = 51
+1701 n_searched = 193300 n_hits = 51
+1702 n_searched = 193350 n_hits = 51
+1703 n_searched = 193350 n_hits = 51
+1704 n_searched = 193500 n_hits = 51
+1705 n_searched = 193550 n_hits = 51
+1706 n_searched = 193600 n_hits = 51
+1707 n_searched = 193750 n_hits = 51
+1708 n_searched = 193800 n_hits = 51
+1709 n_searched = 193900 n_hits = 51
+1710 n_searched = 193950 n_hits = 51
+1711 n_searched = 194150 n_hits = 51
+1712 n_searched = 194250 n_hits = 51
+1713 n_searched = 194300 n_hits = 51
+1714 n_searched = 194400 n_hits = 51
+1715 n_searched = 194550 n_hits = 51
+1716 n_searched = 194600 n_hits = 51
+1717 n_searched = 194600 n_hits = 51
+1718 n_searched = 194800 n_hits = 51
+1719 n_searched = 194900 n_hits = 51
+1720 n_searched = 194950 n_hits = 51
+1721 n_searched = 195100 n_hits = 51
+1722 n_searched = 195250 n_hits = 51
+1723 n_searched = 195400 n_hits = 51
+1724 n_searched = 195450 n_hits = 51
+1725 n_searched = 195550 n_hits = 51
+1726 n_searched = 195550 n_hits = 51
+1727 n_searched = 195650 n_hits = 51
+1728 n_searched = 195800 n_hits = 51
+1729 n_searched = 195800 n_hits = 51
+1730 n_searched = 195900 n_hits = 51
+1731 n_searched = 196050 n_hits = 51
+1732 n_searched = 196100 n_hits = 51
+1733 n_searched = 196300 n_hits = 51
+1734 n_searched = 196350 n_hits = 51
+1735 n_searched = 196350 n_hits = 51
+1736 n_searched = 196500 n_hits = 51
+1737 n_searched = 196500 n_hits = 51
+1738 n_searched = 196650 n_hits = 51
+1739 n_searched = 196700 n_hits = 51
+1740 n_searched = 196850 n_hits = 51
+1741 n_searched = 196950 n_hits = 51
+1742 n_searched = 197000 n_hits = 51
+1743 n_searched = 197100 n_hits = 51
+1744 n_searched = 197250 n_hits = 51
+1745 n_searched = 197350 n_hits = 51
+1746 n_searched = 197400 n_hits = 51
+1747 n_searched = 197500 n_hits = 51
+1748 n_searched = 197500 n_hits = 51
+1749 n_searched = 197500 n_hits = 51
+1750 n_searched = 197700 n_hits = 51
+1751 n_searched = 197850 n_hits = 51
+1752 n_searched = 197950 n_hits = 51
+1753 n_searched = 198050 n_hits = 51
+1754 n_searched = 198250 n_hits = 51
+1755 n_searched = 198400 n_hits = 51
+1756 n_searched = 198500 n_hits = 51
+1757 n_searched = 198550 n_hits = 51
+1758 n_searched = 198650 n_hits = 51
+1759 n_searched = 198700 n_hits = 51
+1760 n_searched = 198750 n_hits = 51
+1761 n_searched = 198800 n_hits = 51
+1762 n_searched = 198850 n_hits = 51
+1763 n_searched = 199000 n_hits = 51
+1764 n_searched = 199100 n_hits = 51
+1765 n_searched = 199150 n_hits = 51
+1766 n_searched = 199150 n_hits = 51
+1767 n_searched = 199200 n_hits = 51
+1768 n_searched = 199400 n_hits = 51
+1769 n_searched = 199550 n_hits = 51
+1770 n_searched = 199600 n_hits = 51
+1771 n_searched = 199700 n_hits = 51
+1772 n_searched = 199800 n_hits = 51
+1773 n_searched = 199900 n_hits = 51
+1774 n_searched = 199950 n_hits = 51
+1775 n_searched = 200150 n_hits = 51
+1776 n_searched = 200200 n_hits = 51
+1777 n_searched = 200450 n_hits = 51
+1778 n_searched = 200550 n_hits = 51
+1779 n_searched = 200550 n_hits = 51
+1780 n_searched = 200650 n_hits = 51
+1781 n_searched = 200650 n_hits = 51
+1782 n_searched = 200850 n_hits = 51
+1783 n_searched = 200900 n_hits = 51
+1784 n_searched = 201050 n_hits = 51
+1785 n_searched = 201100 n_hits = 51
+1786 n_searched = 201250 n_hits = 51
+1787 n_searched = 201450 n_hits = 51
+1788 n_searched = 201500 n_hits = 51
+1789 n_searched = 201500 n_hits = 51
+1790 n_searched = 201550 n_hits = 51
+1791 n_searched = 201700 n_hits = 51
+1792 n_searched = 201900 n_hits = 51
+1793 n_searched = 201950 n_hits = 51
+1794 n_searched = 202000 n_hits = 51
+1795 n_searched = 202050 n_hits = 51
+1796 n_searched = 202100 n_hits = 51
+1797 n_searched = 202150 n_hits = 51
+1798 n_searched = 202200 n_hits = 51
+1799 n_searched = 202350 n_hits = 51
+1800 n_searched = 202500 n_hits = 51
+1801 n_searched = 202550 n_hits = 51
+1802 n_searched = 202650 n_hits = 51
+1803 n_searched = 202750 n_hits = 51
+1804 n_searched = 202800 n_hits = 51
+1805 n_searched = 203050 n_hits = 51
+1806 n_searched = 203250 n_hits = 51
+1807 n_searched = 203300 n_hits = 51
+1808 n_searched = 203400 n_hits = 51
+1809 n_searched = 203400 n_hits = 51
+1810 n_searched = 203400 n_hits = 51
+1811 n_searched = 203450 n_hits = 51
+1812 n_searched = 203650 n_hits = 51
+1813 n_searched = 203700 n_hits = 51
+1814 n_searched = 203800 n_hits = 51
+1815 n_searched = 203850 n_hits = 51
+1816 n_searched = 204100 n_hits = 51
+1817 n_searched = 204250 n_hits = 51
+1818 n_searched = 204400 n_hits = 51
+1819 n_searched = 204450 n_hits = 51
+1820 n_searched = 204450 n_hits = 51
+1821 n_searched = 204550 n_hits = 51
+1822 n_searched = 204650 n_hits = 51
+1823 n_searched = 204650 n_hits = 51
+1824 n_searched = 204800 n_hits = 51
+1825 n_searched = 205100 n_hits = 51
+1826 n_searched = 205100 n_hits = 51
+1827 n_searched = 205200 n_hits = 51
+1828 n_searched = 205250 n_hits = 51
+1829 n_searched = 205400 n_hits = 51
+1830 n_searched = 205500 n_hits = 51
+1831 n_searched = 205550 n_hits = 51
+1832 n_searched = 205550 n_hits = 51
+1833 n_searched = 205600 n_hits = 51
+1834 n_searched = 205700 n_hits = 51
+1835 n_searched = 205800 n_hits = 51
+1836 n_searched = 205900 n_hits = 51
+1837 n_searched = 205950 n_hits = 51
+1838 n_searched = 206200 n_hits = 51
+1839 n_searched = 206350 n_hits = 51
+1840 n_searched = 206400 n_hits = 51
+1841 n_searched = 206400 n_hits = 51
+1842 n_searched = 206600 n_hits = 51
+1843 n_searched = 206650 n_hits = 51
+1844 n_searched = 206750 n_hits = 51
+1845 n_searched = 206850 n_hits = 51
+1846 n_searched = 206950 n_hits = 51
+1847 n_searched = 207050 n_hits = 51
+1848 n_searched = 207200 n_hits = 51
+1849 n_searched = 207250 n_hits = 51
+1850 n_searched = 207350 n_hits = 51
+1851 n_searched = 207400 n_hits = 51
+1852 n_searched = 207450 n_hits = 51
+1853 n_searched = 207650 n_hits = 51
+1854 n_searched = 207750 n_hits = 51
+1855 n_searched = 207900 n_hits = 51
+1856 n_searched = 208050 n_hits = 51
+1857 n_searched = 208100 n_hits = 51
+1858 n_searched = 208150 n_hits = 51
+1859 n_searched = 208250 n_hits = 51
+1860 n_searched = 208350 n_hits = 51
+1861 n_searched = 208450 n_hits = 51
+1862 n_searched = 208600 n_hits = 51
+1863 n_searched = 208650 n_hits = 51
+1864 n_searched = 208650 n_hits = 51
+1865 n_searched = 208750 n_hits = 51
+1866 n_searched = 208900 n_hits = 51
+1867 n_searched = 209000 n_hits = 51
+1868 n_searched = 209100 n_hits = 51
+1869 n_searched = 209250 n_hits = 51
+1870 n_searched = 209350 n_hits = 51
+1871 n_searched = 209400 n_hits = 51
+1872 n_searched = 209500 n_hits = 51
+1873 n_searched = 209550 n_hits = 51
+1874 n_searched = 209600 n_hits = 51
+1875 n_searched = 209700 n_hits = 51
+1876 n_searched = 209800 n_hits = 51
+1877 n_searched = 209900 n_hits = 51
+1878 n_searched = 210100 n_hits = 51
+1879 n_searched = 210200 n_hits = 51
+1880 n_searched = 210300 n_hits = 51
+1881 n_searched = 210450 n_hits = 51
+1882 n_searched = 210450 n_hits = 51
+1883 n_searched = 210500 n_hits = 51
+1884 n_searched = 210600 n_hits = 51
+1885 n_searched = 210700 n_hits = 51
+1886 n_searched = 210700 n_hits = 51
+1887 n_searched = 210800 n_hits = 51
+1888 n_searched = 210850 n_hits = 51
+1889 n_searched = 210950 n_hits = 51
+1890 n_searched = 211200 n_hits = 51
+1891 n_searched = 211250 n_hits = 51
+1892 n_searched = 211350 n_hits = 51
+1893 n_searched = 211550 n_hits = 52
+1894 n_searched = 211650 n_hits = 52
+1895 n_searched = 211700 n_hits = 52
+1896 n_searched = 211750 n_hits = 53
+1897 n_searched = 211900 n_hits = 54
+1898 n_searched = 211950 n_hits = 54
+1899 n_searched = 211950 n_hits = 55
+1900 n_searched = 212000 n_hits = 55
+1901 n_searched = 212200 n_hits = 55
+1902 n_searched = 212200 n_hits = 55
+1903 n_searched = 212250 n_hits = 56
+1904 n_searched = 212350 n_hits = 56
+1905 n_searched = 212500 n_hits = 57
+1906 n_searched = 212600 n_hits = 57
+1907 n_searched = 212750 n_hits = 57
+1908 n_searched = 212900 n_hits = 58
+1909 n_searched = 212950 n_hits = 58
+1910 n_searched = 213050 n_hits = 59
+1911 n_searched = 213100 n_hits = 59
+1912 n_searched = 213100 n_hits = 60
+1913 n_searched = 213150 n_hits = 61
+1914 n_searched = 213200 n_hits = 62
+1915 n_searched = 213300 n_hits = 62
+1916 n_searched = 213500 n_hits = 62
+1917 n_searched = 213500 n_hits = 62
+1918 n_searched = 213650 n_hits = 62
+1919 n_searched = 213700 n_hits = 62
+1920 n_searched = 213950 n_hits = 62
+1921 n_searched = 214100 n_hits = 62
+1922 n_searched = 214150 n_hits = 62
+1923 n_searched = 214250 n_hits = 62
+1924 n_searched = 214300 n_hits = 62
+1925 n_searched = 214400 n_hits = 62
+1926 n_searched = 214450 n_hits = 63
+1927 n_searched = 214550 n_hits = 63
+1928 n_searched = 214550 n_hits = 65
+1929 n_searched = 214700 n_hits = 65
+1930 n_searched = 214750 n_hits = 65
+1931 n_searched = 214850 n_hits = 66
+1932 n_searched = 215000 n_hits = 67
+1933 n_searched = 215050 n_hits = 67
+1934 n_searched = 215100 n_hits = 68
+1935 n_searched = 215200 n_hits = 68
+1936 n_searched = 215250 n_hits = 69
+1937 n_searched = 215450 n_hits = 70
+1938 n_searched = 215650 n_hits = 71
+1939 n_searched = 215750 n_hits = 72
+1940 n_searched = 215850 n_hits = 73
+1941 n_searched = 215900 n_hits = 73
+1942 n_searched = 215900 n_hits = 73
+1943 n_searched = 215900 n_hits = 73
+1944 n_searched = 216000 n_hits = 75
+1945 n_searched = 216050 n_hits = 75
+1946 n_searched = 216150 n_hits = 75
+1947 n_searched = 216200 n_hits = 76
+1948 n_searched = 216350 n_hits = 77
+1949 n_searched = 216450 n_hits = 77
+1950 n_searched = 216600 n_hits = 79
+1951 n_searched = 216750 n_hits = 79
+1952 n_searched = 216750 n_hits = 80
+1953 n_searched = 216850 n_hits = 81
+1954 n_searched = 216900 n_hits = 81
+1955 n_searched = 216900 n_hits = 84
+1956 n_searched = 216950 n_hits = 84
+1957 n_searched = 217050 n_hits = 84
+1958 n_searched = 217250 n_hits = 84
+1959 n_searched = 217300 n_hits = 85
+1960 n_searched = 217300 n_hits = 86
+1961 n_searched = 217400 n_hits = 86
+1962 n_searched = 217550 n_hits = 87
+1963 n_searched = 217700 n_hits = 87
+1964 n_searched = 217900 n_hits = 88
+1965 n_searched = 218000 n_hits = 89
+1966 n_searched = 218000 n_hits = 89
+1967 n_searched = 218150 n_hits = 91
+1968 n_searched = 218150 n_hits = 92
+1969 n_searched = 218150 n_hits = 92
+1970 n_searched = 218200 n_hits = 92
+1971 n_searched = 218250 n_hits = 93
+1972 n_searched = 218400 n_hits = 94
+1973 n_searched = 218500 n_hits = 95
+1974 n_searched = 218550 n_hits = 95
+1975 n_searched = 218700 n_hits = 96
+1976 n_searched = 218700 n_hits = 97
+1977 n_searched = 218750 n_hits = 98
+1978 n_searched = 218850 n_hits = 98
+1979 n_searched = 218900 n_hits = 99
+1980 n_searched = 219200 n_hits = 99
+1981 n_searched = 219300 n_hits = 100
+1982 n_searched = 219400 n_hits = 101
+1983 n_searched = 219550 n_hits = 102
+1984 n_searched = 219550 n_hits = 102
+1985 n_searched = 219650 n_hits = 102
+1986 n_searched = 219700 n_hits = 102
+1987 n_searched = 219700 n_hits = 102
+1988 n_searched = 219750 n_hits = 103
+1989 n_searched = 220000 n_hits = 104
+1990 n_searched = 220050 n_hits = 104
+1991 n_searched = 220100 n_hits = 104
+1992 n_searched = 220150 n_hits = 105
+1993 n_searched = 220250 n_hits = 105
+1994 n_searched = 220250 n_hits = 105
+1995 n_searched = 220400 n_hits = 107
+1996 n_searched = 220600 n_hits = 107
+1997 n_searched = 220650 n_hits = 108
+1998 n_searched = 220700 n_hits = 109
+1999 n_searched = 220750 n_hits = 109
+2000 n_searched = 220900 n_hits = 110
+2001 n_searched = 221100 n_hits = 111
+2002 n_searched = 221250 n_hits = 112
+2003 n_searched = 221250 n_hits = 113
+2004 n_searched = 221350 n_hits = 114
+2005 n_searched = 221400 n_hits = 114
+2006 n_searched = 221400 n_hits = 115
+2007 n_searched = 221450 n_hits = 115
+2008 n_searched = 221600 n_hits = 117
+2009 n_searched = 221650 n_hits = 117
+2010 n_searched = 221750 n_hits = 117
+2011 n_searched = 221850 n_hits = 118
+2012 n_searched = 222000 n_hits = 118
+2013 n_searched = 222150 n_hits = 119
+2014 n_searched = 222250 n_hits = 119
+2015 n_searched = 222300 n_hits = 120
+2016 n_searched = 222450 n_hits = 121
+2017 n_searched = 222450 n_hits = 121
+2018 n_searched = 222550 n_hits = 123
+2019 n_searched = 222550 n_hits = 123
+2020 n_searched = 222700 n_hits = 125
+2021 n_searched = 222800 n_hits = 125
+2022 n_searched = 222900 n_hits = 126
+2023 n_searched = 223000 n_hits = 126
+2024 n_searched = 223100 n_hits = 126
+2025 n_searched = 223250 n_hits = 127
+2026 n_searched = 223400 n_hits = 128
+2027 n_searched = 223450 n_hits = 129
+2028 n_searched = 223500 n_hits = 130
+2029 n_searched = 223550 n_hits = 131
+2030 n_searched = 223600 n_hits = 132
+2031 n_searched = 223650 n_hits = 132
+2032 n_searched = 223800 n_hits = 134
+2033 n_searched = 223900 n_hits = 134
+2034 n_searched = 223950 n_hits = 134
+2035 n_searched = 223950 n_hits = 135
+2036 n_searched = 224100 n_hits = 136
+2037 n_searched = 224200 n_hits = 137
+2038 n_searched = 224300 n_hits = 138
+2039 n_searched = 224550 n_hits = 138
+2040 n_searched = 224600 n_hits = 138
+2041 n_searched = 224650 n_hits = 138
+2042 n_searched = 224750 n_hits = 139
+2043 n_searched = 224750 n_hits = 140
+2044 n_searched = 224900 n_hits = 141
+2045 n_searched = 224950 n_hits = 142
+2046 n_searched = 224950 n_hits = 143
+2047 n_searched = 225050 n_hits = 143
+2048 n_searched = 225150 n_hits = 143
+2049 n_searched = 225250 n_hits = 143
+2050 n_searched = 225400 n_hits = 143
+2051 n_searched = 225500 n_hits = 143
+2052 n_searched = 225600 n_hits = 144
+2053 n_searched = 225650 n_hits = 145
+2054 n_searched = 225800 n_hits = 147
+2055 n_searched = 225900 n_hits = 148
+2056 n_searched = 225950 n_hits = 148
+2057 n_searched = 225950 n_hits = 149
+2058 n_searched = 226050 n_hits = 151
+2059 n_searched = 226150 n_hits = 153
+2060 n_searched = 226300 n_hits = 153
+2061 n_searched = 226400 n_hits = 154
+2062 n_searched = 226450 n_hits = 155
+2063 n_searched = 226650 n_hits = 155
+2064 n_searched = 226750 n_hits = 156
+2065 n_searched = 226750 n_hits = 156
+2066 n_searched = 226850 n_hits = 157
+2067 n_searched = 226900 n_hits = 158
+2068 n_searched = 227050 n_hits = 160
+2069 n_searched = 227050 n_hits = 160
+2070 n_searched = 227200 n_hits = 160
+2071 n_searched = 227200 n_hits = 161
+2072 n_searched = 227350 n_hits = 162
+2073 n_searched = 227350 n_hits = 163
+2074 n_searched = 227400 n_hits = 163
+2075 n_searched = 227600 n_hits = 164
+2076 n_searched = 227700 n_hits = 165
+2077 n_searched = 227750 n_hits = 165
+2078 n_searched = 227900 n_hits = 165
+2079 n_searched = 228000 n_hits = 166
+2080 n_searched = 228050 n_hits = 166
+2081 n_searched = 228200 n_hits = 166
+2082 n_searched = 228200 n_hits = 167
+2083 n_searched = 228250 n_hits = 169
+2084 n_searched = 228350 n_hits = 170
+2085 n_searched = 228450 n_hits = 171
+2086 n_searched = 228500 n_hits = 172
+2087 n_searched = 228600 n_hits = 173
+2088 n_searched = 228700 n_hits = 174
+2089 n_searched = 228800 n_hits = 175
+2090 n_searched = 228950 n_hits = 175
+2091 n_searched = 229050 n_hits = 176
+2092 n_searched = 229100 n_hits = 177
+2093 n_searched = 229100 n_hits = 179
+2094 n_searched = 229150 n_hits = 180
+2095 n_searched = 229300 n_hits = 180
+2096 n_searched = 229300 n_hits = 180
+2097 n_searched = 229350 n_hits = 180
+2098 n_searched = 229450 n_hits = 180
+2099 n_searched = 229650 n_hits = 180
+2100 n_searched = 229700 n_hits = 180
+2101 n_searched = 229950 n_hits = 180
+2102 n_searched = 230050 n_hits = 181
+2103 n_searched = 230150 n_hits = 181
+2104 n_searched = 230200 n_hits = 182
+2105 n_searched = 230250 n_hits = 183
+2106 n_searched = 230300 n_hits = 183
+2107 n_searched = 230350 n_hits = 184
+2108 n_searched = 230450 n_hits = 184
+2109 n_searched = 230600 n_hits = 184
+2110 n_searched = 230750 n_hits = 184
+2111 n_searched = 230750 n_hits = 184
+2112 n_searched = 230750 n_hits = 184
+2113 n_searched = 230850 n_hits = 185
+2114 n_searched = 231050 n_hits = 185
+2115 n_searched = 231250 n_hits = 187
+2116 n_searched = 231300 n_hits = 187
+2117 n_searched = 231300 n_hits = 188
+2118 n_searched = 231400 n_hits = 189
+2119 n_searched = 231450 n_hits = 189
+2120 n_searched = 231550 n_hits = 189
+2121 n_searched = 231700 n_hits = 189
+2122 n_searched = 231800 n_hits = 190
+2123 n_searched = 231950 n_hits = 190
+2124 n_searched = 232000 n_hits = 191
+2125 n_searched = 232050 n_hits = 192
+2126 n_searched = 232200 n_hits = 192
+2127 n_searched = 232200 n_hits = 192
+2128 n_searched = 232350 n_hits = 192
+2129 n_searched = 232400 n_hits = 193
+2130 n_searched = 232550 n_hits = 193
+2131 n_searched = 232600 n_hits = 193
+2132 n_searched = 232850 n_hits = 194
+2133 n_searched = 232850 n_hits = 194
+2134 n_searched = 233000 n_hits = 195
+2135 n_searched = 233000 n_hits = 195
+2136 n_searched = 233050 n_hits = 195
+2137 n_searched = 233050 n_hits = 195
+2138 n_searched = 233200 n_hits = 195
+2139 n_searched = 233350 n_hits = 196
+2140 n_searched = 233450 n_hits = 197
+2141 n_searched = 233500 n_hits = 197
+2142 n_searched = 233650 n_hits = 198
+2143 n_searched = 233650 n_hits = 199
+2144 n_searched = 233750 n_hits = 200
+2145 n_searched = 233900 n_hits = 202
+2146 n_searched = 234000 n_hits = 203
+2147 n_searched = 234100 n_hits = 203
+2148 n_searched = 234200 n_hits = 203
+2149 n_searched = 234200 n_hits = 205
+2150 n_searched = 234350 n_hits = 205
+2151 n_searched = 234450 n_hits = 206
+2152 n_searched = 234550 n_hits = 207
+2153 n_searched = 234650 n_hits = 207
+2154 n_searched = 234800 n_hits = 208
+2155 n_searched = 234950 n_hits = 208
+2156 n_searched = 234950 n_hits = 209
+2157 n_searched = 235000 n_hits = 210
+2158 n_searched = 235000 n_hits = 212
+2159 n_searched = 235100 n_hits = 213
+2160 n_searched = 235150 n_hits = 213
+2161 n_searched = 235250 n_hits = 214
+2162 n_searched = 235400 n_hits = 215
+2163 n_searched = 235450 n_hits = 216
+2164 n_searched = 235550 n_hits = 216
+2165 n_searched = 235800 n_hits = 217
+2166 n_searched = 235900 n_hits = 217
+2167 n_searched = 236050 n_hits = 218
+2168 n_searched = 236100 n_hits = 218
+2169 n_searched = 236100 n_hits = 219
+2170 n_searched = 236150 n_hits = 219
+2171 n_searched = 236300 n_hits = 219
+2172 n_searched = 236400 n_hits = 220
+2173 n_searched = 236500 n_hits = 220
+2174 n_searched = 236550 n_hits = 221
+2175 n_searched = 236550 n_hits = 221
+2176 n_searched = 236750 n_hits = 221
+2177 n_searched = 236850 n_hits = 221
+2178 n_searched = 236850 n_hits = 222
+2179 n_searched = 236900 n_hits = 223
+2180 n_searched = 237100 n_hits = 223
+2181 n_searched = 237350 n_hits = 224
+2182 n_searched = 237400 n_hits = 224
+2183 n_searched = 237500 n_hits = 224
+2184 n_searched = 237500 n_hits = 225
+2185 n_searched = 237550 n_hits = 225
+2186 n_searched = 237650 n_hits = 226
+2187 n_searched = 237700 n_hits = 227
+2188 n_searched = 237850 n_hits = 228
+2189 n_searched = 237900 n_hits = 229
+2190 n_searched = 237950 n_hits = 229
+2191 n_searched = 238100 n_hits = 229
+2192 n_searched = 238200 n_hits = 229
+2193 n_searched = 238400 n_hits = 229
+2194 n_searched = 238400 n_hits = 229
+2195 n_searched = 238500 n_hits = 230
+2196 n_searched = 238500 n_hits = 231
+2197 n_searched = 238500 n_hits = 233
+2198 n_searched = 238600 n_hits = 233
+2199 n_searched = 238750 n_hits = 234
+2200 n_searched = 238950 n_hits = 236
+2201 n_searched = 239000 n_hits = 236
+2202 n_searched = 239050 n_hits = 237
+2203 n_searched = 239150 n_hits = 237
+2204 n_searched = 239200 n_hits = 238
+2205 n_searched = 239250 n_hits = 238
+2206 n_searched = 239450 n_hits = 239
+2207 n_searched = 239450 n_hits = 240
+2208 n_searched = 239450 n_hits = 240
+2209 n_searched = 239500 n_hits = 240
+2210 n_searched = 239550 n_hits = 240
+2211 n_searched = 239900 n_hits = 242
+2212 n_searched = 239900 n_hits = 243
+2213 n_searched = 240100 n_hits = 244
+2214 n_searched = 240100 n_hits = 245
+2215 n_searched = 240250 n_hits = 246
+2216 n_searched = 240350 n_hits = 247
+2217 n_searched = 240450 n_hits = 247
+2218 n_searched = 240450 n_hits = 247
+2219 n_searched = 240450 n_hits = 247
+2220 n_searched = 240600 n_hits = 248
+2221 n_searched = 240750 n_hits = 249
+2222 n_searched = 240900 n_hits = 251
+2223 n_searched = 240950 n_hits = 251
+2224 n_searched = 241050 n_hits = 252
+2225 n_searched = 241150 n_hits = 252
+2226 n_searched = 241150 n_hits = 252
+2227 n_searched = 241200 n_hits = 252
+2228 n_searched = 241300 n_hits = 254
+2229 n_searched = 241400 n_hits = 254
+2230 n_searched = 241450 n_hits = 254
+2231 n_searched = 241450 n_hits = 254
+2232 n_searched = 241700 n_hits = 255
+2233 n_searched = 241850 n_hits = 255
+2234 n_searched = 241900 n_hits = 257
+2235 n_searched = 241900 n_hits = 258
+2236 n_searched = 242100 n_hits = 259
+2237 n_searched = 242250 n_hits = 260
+2238 n_searched = 242250 n_hits = 260
+2239 n_searched = 242300 n_hits = 260
+2240 n_searched = 242400 n_hits = 260
+2241 n_searched = 242450 n_hits = 260
+2242 n_searched = 242550 n_hits = 260
+2243 n_searched = 242650 n_hits = 260
+2244 n_searched = 242800 n_hits = 261
+2245 n_searched = 242900 n_hits = 261
+2246 n_searched = 242950 n_hits = 261
+2247 n_searched = 243000 n_hits = 262
+2248 n_searched = 243100 n_hits = 262
+2249 n_searched = 243150 n_hits = 263
+2250 n_searched = 243250 n_hits = 264
+2251 n_searched = 243350 n_hits = 265
+2252 n_searched = 243450 n_hits = 265
+2253 n_searched = 243550 n_hits = 266
+2254 n_searched = 243650 n_hits = 267
+2255 n_searched = 243900 n_hits = 268
+2256 n_searched = 243950 n_hits = 268
+2257 n_searched = 244000 n_hits = 268
+2258 n_searched = 244050 n_hits = 268
+2259 n_searched = 244100 n_hits = 268
+2260 n_searched = 244150 n_hits = 268
+2261 n_searched = 244300 n_hits = 268
+2262 n_searched = 244300 n_hits = 269
+2263 n_searched = 244400 n_hits = 269
+2264 n_searched = 244600 n_hits = 269
+2265 n_searched = 244700 n_hits = 269
+2266 n_searched = 244800 n_hits = 270
+2267 n_searched = 244950 n_hits = 271
+2268 n_searched = 245050 n_hits = 272
+2269 n_searched = 245050 n_hits = 273
+2270 n_searched = 245050 n_hits = 274
+2271 n_searched = 245100 n_hits = 274
+2272 n_searched = 245200 n_hits = 275
+2273 n_searched = 245300 n_hits = 275
+2274 n_searched = 245350 n_hits = 276
+2275 n_searched = 245500 n_hits = 277
+2276 n_searched = 245600 n_hits = 278
+2277 n_searched = 245700 n_hits = 278
+2278 n_searched = 245850 n_hits = 278
+2279 n_searched = 245850 n_hits = 279
+2280 n_searched = 246000 n_hits = 279
+2281 n_searched = 246050 n_hits = 280
+2282 n_searched = 246150 n_hits = 281
+2283 n_searched = 246200 n_hits = 282
+2284 n_searched = 246350 n_hits = 283
+2285 n_searched = 246400 n_hits = 283
+2286 n_searched = 246500 n_hits = 283
+2287 n_searched = 246700 n_hits = 284
+2288 n_searched = 246850 n_hits = 286
+2289 n_searched = 246900 n_hits = 287
+2290 n_searched = 247000 n_hits = 288
+2291 n_searched = 247100 n_hits = 288
+2292 n_searched = 247150 n_hits = 290
+2293 n_searched = 247150 n_hits = 290
+2294 n_searched = 247250 n_hits = 290
+2295 n_searched = 247350 n_hits = 290
+2296 n_searched = 247450 n_hits = 290
+2297 n_searched = 247550 n_hits = 290
+2298 n_searched = 247750 n_hits = 291
+2299 n_searched = 247900 n_hits = 292
+2300 n_searched = 247950 n_hits = 292
+2301 n_searched = 248000 n_hits = 293
+2302 n_searched = 248100 n_hits = 295
+2303 n_searched = 248150 n_hits = 296
+2304 n_searched = 248200 n_hits = 297
+2305 n_searched = 248350 n_hits = 298
+2306 n_searched = 248400 n_hits = 298
+2307 n_searched = 248500 n_hits = 298
+2308 n_searched = 248600 n_hits = 300
+2309 n_searched = 248650 n_hits = 300
+2310 n_searched = 248700 n_hits = 301
+2311 n_searched = 248800 n_hits = 302
+2312 n_searched = 248950 n_hits = 302
+2313 n_searched = 249000 n_hits = 302
+2314 n_searched = 249150 n_hits = 304
+2315 n_searched = 249200 n_hits = 304
+2316 n_searched = 249300 n_hits = 304
+2317 n_searched = 249400 n_hits = 304
+2318 n_searched = 249500 n_hits = 304
+2319 n_searched = 249550 n_hits = 304
+2320 n_searched = 249600 n_hits = 304
+2321 n_searched = 249700 n_hits = 304
+2322 n_searched = 249750 n_hits = 304
+2323 n_searched = 249900 n_hits = 304
+2324 n_searched = 250000 n_hits = 304
+2325 n_searched = 250200 n_hits = 304
+2326 n_searched = 250250 n_hits = 304
+2327 n_searched = 250350 n_hits = 304
+2328 n_searched = 250400 n_hits = 304
+2329 n_searched = 250600 n_hits = 304
+2330 n_searched = 250650 n_hits = 304
+2331 n_searched = 250650 n_hits = 304
+2332 n_searched = 250800 n_hits = 304
+2333 n_searched = 250900 n_hits = 304
+2334 n_searched = 250950 n_hits = 304
+2335 n_searched = 250950 n_hits = 304
+2336 n_searched = 250950 n_hits = 304
+2337 n_searched = 251050 n_hits = 304
+2338 n_searched = 251200 n_hits = 304
+2339 n_searched = 251300 n_hits = 305
+2340 n_searched = 251500 n_hits = 306
+2341 n_searched = 251650 n_hits = 306
+2342 n_searched = 251700 n_hits = 306
+2343 n_searched = 251750 n_hits = 306
+2344 n_searched = 251900 n_hits = 306
+2345 n_searched = 251950 n_hits = 308
+2346 n_searched = 252050 n_hits = 308
+2347 n_searched = 252050 n_hits = 308
+2348 n_searched = 252150 n_hits = 308
+2349 n_searched = 252250 n_hits = 308
+2350 n_searched = 252300 n_hits = 308
+2351 n_searched = 252300 n_hits = 308
+2352 n_searched = 252450 n_hits = 308
+2353 n_searched = 252550 n_hits = 308
+2354 n_searched = 252750 n_hits = 308
+2355 n_searched = 252900 n_hits = 308
+2356 n_searched = 252900 n_hits = 308
+2357 n_searched = 253000 n_hits = 308
+2358 n_searched = 253150 n_hits = 309
+2359 n_searched = 253200 n_hits = 309
+2360 n_searched = 253250 n_hits = 309
+2361 n_searched = 253250 n_hits = 309
+2362 n_searched = 253300 n_hits = 309
+2363 n_searched = 253350 n_hits = 309
+2364 n_searched = 253500 n_hits = 309
+2365 n_searched = 253600 n_hits = 309
+2366 n_searched = 253700 n_hits = 309
+2367 n_searched = 253950 n_hits = 309
+2368 n_searched = 254000 n_hits = 309
+2369 n_searched = 254000 n_hits = 309
+2370 n_searched = 254150 n_hits = 309
+2371 n_searched = 254200 n_hits = 309
+2372 n_searched = 254250 n_hits = 309
+2373 n_searched = 254400 n_hits = 309
+2374 n_searched = 254400 n_hits = 309
+2375 n_searched = 254400 n_hits = 309
+2376 n_searched = 254650 n_hits = 309
+2377 n_searched = 254750 n_hits = 309
+2378 n_searched = 254850 n_hits = 309
+2379 n_searched = 255000 n_hits = 309
+2380 n_searched = 255050 n_hits = 309
+2381 n_searched = 255100 n_hits = 309
+2382 n_searched = 255150 n_hits = 309
+2383 n_searched = 255250 n_hits = 309
+2384 n_searched = 255300 n_hits = 309
+2385 n_searched = 255400 n_hits = 309
+2386 n_searched = 255400 n_hits = 309
+2387 n_searched = 255500 n_hits = 309
+2388 n_searched = 255650 n_hits = 309
+2389 n_searched = 255850 n_hits = 309
+2390 n_searched = 255850 n_hits = 309
+2391 n_searched = 255900 n_hits = 309
+2392 n_searched = 256050 n_hits = 309
+2393 n_searched = 256150 n_hits = 309
+2394 n_searched = 256350 n_hits = 309
+2395 n_searched = 256400 n_hits = 309
+2396 n_searched = 256450 n_hits = 309
+2397 n_searched = 256500 n_hits = 309
+2398 n_searched = 256500 n_hits = 309
+2399 n_searched = 256550 n_hits = 309
+2400 n_searched = 256550 n_hits = 309
+2401 n_searched = 256700 n_hits = 309
+2402 n_searched = 256900 n_hits = 309
+2403 n_searched = 256950 n_hits = 309
+2404 n_searched = 257050 n_hits = 309
+2405 n_searched = 257150 n_hits = 309
+2406 n_searched = 257300 n_hits = 309
+2407 n_searched = 257500 n_hits = 309
+2408 n_searched = 257600 n_hits = 309
+2409 n_searched = 257600 n_hits = 309
+2410 n_searched = 257700 n_hits = 309
+2411 n_searched = 257750 n_hits = 309
+2412 n_searched = 257750 n_hits = 309
+2413 n_searched = 257850 n_hits = 309
+2414 n_searched = 257900 n_hits = 309
+2415 n_searched = 257950 n_hits = 309
+2416 n_searched = 258150 n_hits = 309
+2417 n_searched = 258200 n_hits = 309
+2418 n_searched = 258200 n_hits = 309
+2419 n_searched = 258300 n_hits = 309
+2420 n_searched = 258450 n_hits = 309
+2421 n_searched = 258500 n_hits = 309
+2422 n_searched = 258600 n_hits = 309
+2423 n_searched = 258700 n_hits = 309
+2424 n_searched = 258850 n_hits = 309
+2425 n_searched = 258850 n_hits = 309
+2426 n_searched = 258900 n_hits = 309
+2427 n_searched = 259100 n_hits = 309
+2428 n_searched = 259150 n_hits = 309
+2429 n_searched = 259300 n_hits = 309
+2430 n_searched = 259400 n_hits = 309
+2431 n_searched = 259450 n_hits = 309
+2432 n_searched = 259450 n_hits = 309
+2433 n_searched = 259500 n_hits = 309
+2434 n_searched = 259650 n_hits = 309
+2435 n_searched = 259800 n_hits = 309
+2436 n_searched = 259950 n_hits = 309
+2437 n_searched = 260050 n_hits = 309
+2438 n_searched = 260150 n_hits = 309
+2439 n_searched = 260250 n_hits = 309
+2440 n_searched = 260350 n_hits = 309
+2441 n_searched = 260400 n_hits = 309
+2442 n_searched = 260500 n_hits = 309
+2443 n_searched = 260500 n_hits = 309
+2444 n_searched = 260550 n_hits = 309
+2445 n_searched = 260650 n_hits = 309
+2446 n_searched = 260700 n_hits = 309
+2447 n_searched = 260800 n_hits = 309
+2448 n_searched = 261000 n_hits = 309
+2449 n_searched = 261179 n_hits = 309
+2450 n_searched = 261229 n_hits = 309
+2451 n_searched = 261329 n_hits = 309
+2452 n_searched = 261379 n_hits = 309
+2453 n_searched = 261429 n_hits = 309
+2454 n_searched = 261529 n_hits = 309
+2455 n_searched = 261629 n_hits = 309
+2456 n_searched = 261729 n_hits = 309
+2457 n_searched = 261729 n_hits = 309
+2458 n_searched = 261779 n_hits = 309
+2459 n_searched = 261929 n_hits = 309
+2460 n_searched = 262079 n_hits = 309
+2461 n_searched = 262279 n_hits = 309
+2462 n_searched = 262429 n_hits = 309
+2463 n_searched = 262429 n_hits = 309
+2464 n_searched = 262429 n_hits = 309
+2465 n_searched = 262529 n_hits = 309
+2466 n_searched = 262579 n_hits = 309
+2467 n_searched = 262579 n_hits = 309
+2468 n_searched = 262729 n_hits = 309
+2469 n_searched = 262879 n_hits = 309
+2470 n_searched = 262929 n_hits = 309
+2471 n_searched = 262979 n_hits = 309
+2472 n_searched = 262979 n_hits = 309
+2473 n_searched = 263129 n_hits = 309
+2474 n_searched = 263229 n_hits = 309
+2475 n_searched = 263279 n_hits = 309
+2476 n_searched = 263379 n_hits = 309
+2477 n_searched = 263429 n_hits = 309
+2478 n_searched = 263729 n_hits = 309
+2479 n_searched = 263829 n_hits = 309
+2480 n_searched = 263929 n_hits = 309
+2481 n_searched = 263979 n_hits = 309
+2482 n_searched = 264079 n_hits = 309
+2483 n_searched = 264079 n_hits = 309
+2484 n_searched = 264179 n_hits = 309
+2485 n_searched = 264179 n_hits = 309
+2486 n_searched = 264279 n_hits = 309
+2487 n_searched = 264308 n_hits = 309
+2488 n_searched = 264358 n_hits = 309
+2489 n_searched = 264497 n_hits = 309
+2490 n_searched = 264747 n_hits = 309
+2491 n_searched = 264847 n_hits = 309
+2492 n_searched = 264947 n_hits = 309
+2493 n_searched = 264997 n_hits = 309
+2494 n_searched = 265047 n_hits = 309
+2495 n_searched = 265097 n_hits = 309
+2496 n_searched = 265197 n_hits = 310
+2497 n_searched = 265347 n_hits = 310
+2498 n_searched = 265397 n_hits = 310
+2499 n_searched = 265547 n_hits = 310
+2500 n_searched = 265547 n_hits = 312
+2501 n_searched = 265597 n_hits = 312
+2502 n_searched = 265847 n_hits = 312
+2503 n_searched = 265897 n_hits = 312
+2504 n_searched = 266076 n_hits = 312
+2505 n_searched = 266076 n_hits = 312
+2506 n_searched = 266355 n_hits = 312
+2507 n_searched = 266434 n_hits = 312
+2508 n_searched = 266434 n_hits = 312
+2509 n_searched = 266484 n_hits = 312
+2510 n_searched = 266534 n_hits = 312
+2511 n_searched = 266584 n_hits = 312
+2512 n_searched = 266684 n_hits = 312
+2513 n_searched = 266834 n_hits = 312
+2514 n_searched = 266934 n_hits = 312
+2515 n_searched = 267034 n_hits = 312
+2516 n_searched = 267134 n_hits = 312
+2517 n_searched = 267284 n_hits = 312
+2518 n_searched = 267334 n_hits = 312
+2519 n_searched = 267363 n_hits = 312
+2520 n_searched = 267513 n_hits = 312
+2521 n_searched = 267542 n_hits = 312
+2522 n_searched = 267692 n_hits = 312
+2523 n_searched = 267871 n_hits = 312
+2524 n_searched = 267921 n_hits = 312
+2525 n_searched = 267921 n_hits = 312
+2526 n_searched = 267971 n_hits = 312
+2527 n_searched = 268021 n_hits = 312
+2528 n_searched = 268121 n_hits = 312
+2529 n_searched = 268321 n_hits = 312
+2530 n_searched = 268321 n_hits = 312
+2531 n_searched = 268571 n_hits = 312
+2532 n_searched = 268721 n_hits = 312
+2533 n_searched = 268721 n_hits = 312
+2534 n_searched = 268771 n_hits = 312
+2535 n_searched = 268771 n_hits = 312
+2536 n_searched = 268821 n_hits = 312
+2537 n_searched = 268921 n_hits = 312
+2538 n_searched = 268971 n_hits = 312
+2539 n_searched = 269071 n_hits = 312
+2540 n_searched = 269271 n_hits = 312
+2541 n_searched = 269421 n_hits = 312
+2542 n_searched = 269471 n_hits = 312
+2543 n_searched = 269521 n_hits = 312
+2544 n_searched = 269621 n_hits = 312
+2545 n_searched = 269671 n_hits = 312
+2546 n_searched = 269821 n_hits = 312
+2547 n_searched = 269871 n_hits = 312
+2548 n_searched = 269971 n_hits = 312
+2549 n_searched = 270121 n_hits = 312
+2550 n_searched = 270121 n_hits = 312
+2551 n_searched = 270221 n_hits = 312
+2552 n_searched = 270271 n_hits = 312
+2553 n_searched = 270421 n_hits = 312
+2554 n_searched = 270571 n_hits = 312
+2555 n_searched = 270621 n_hits = 312
+2556 n_searched = 270771 n_hits = 312
+2557 n_searched = 270771 n_hits = 312
+2558 n_searched = 270821 n_hits = 312
+2559 n_searched = 270871 n_hits = 312
+2560 n_searched = 271121 n_hits = 312
+2561 n_searched = 271171 n_hits = 312
+2562 n_searched = 271271 n_hits = 312
+2563 n_searched = 271300 n_hits = 312
+2564 n_searched = 271350 n_hits = 312
+2565 n_searched = 271500 n_hits = 313
+2566 n_searched = 271650 n_hits = 314
+2567 n_searched = 271700 n_hits = 314
+2568 n_searched = 271829 n_hits = 314
+2569 n_searched = 271987 n_hits = 314
+2570 n_searched = 271987 n_hits = 314
+2571 n_searched = 272087 n_hits = 314
+2572 n_searched = 272237 n_hits = 314
+2573 n_searched = 272366 n_hits = 314
+2574 n_searched = 272495 n_hits = 314
+2575 n_searched = 272495 n_hits = 314
+2576 n_searched = 272495 n_hits = 314
+2577 n_searched = 272724 n_hits = 314
+2578 n_searched = 272824 n_hits = 314
+2579 n_searched = 272903 n_hits = 314
+2580 n_searched = 273082 n_hits = 314
+2581 n_searched = 273161 n_hits = 314
+2582 n_searched = 273269 n_hits = 314
+2583 n_searched = 273319 n_hits = 314
+2584 n_searched = 273448 n_hits = 314
+2585 n_searched = 273548 n_hits = 314
+2586 n_searched = 273698 n_hits = 314
+2587 n_searched = 273748 n_hits = 314
+2588 n_searched = 273877 n_hits = 314
+2589 n_searched = 273977 n_hits = 314
+2590 n_searched = 274077 n_hits = 314
+2591 n_searched = 274177 n_hits = 314
+2592 n_searched = 274277 n_hits = 314
+Hit id: ZINC09346590_129_47_0 rmsd: 0.7799421379401092 
+Hit id: ZINC09346590_129_47_1 rmsd: 0.7799421379401092 
+Hit id: ZINC45658796_1_12_4 rmsd: 0.8024090981984163 
+Hit id: ZINC49037428_136_91_12 rmsd: 0.8066195077867274 
+Hit id: ZINC03057008_67_89_0 rmsd: 0.8071066219875842 
+Hit id: ZINC49037428_136_91_3 rmsd: 0.8144365231609546 
+Hit id: ZINC49037428_136_91_22 rmsd: 0.8148528160011239 
+Hit id: ZINC49037428_136_91_16 rmsd: 0.8196104086079246 
+Hit id: ZINC49037428_136_91_11 rmsd: 0.8264425428296303 
+Hit id: ZINC09346590_129_47_2 rmsd: 0.8344484419212082 
+Hit id: ZINC09346590_129_47_3 rmsd: 0.8344484419212082 
+Hit id: ZINC49037428_136_91_13 rmsd: 0.8393973886503585 
+Hit id: ZINC51392340_1_78_11 rmsd: 0.846941888646843 
+Hit id: ZINC49037428_136_91_8 rmsd: 0.8486328529012757 
+Hit id: ZINC49037428_136_91_0 rmsd: 0.8549455637669777 
+Hit id: ZINC51392340_1_78_9 rmsd: 0.8691364823847221 
+Hit id: ZINC49037428_136_91_18 rmsd: 0.8985667241960769 
+Hit id: ZINC00713578_83_65_8 rmsd: 0.8989816979025843 
+Hit id: ZINC00713578_83_65_9 rmsd: 0.8990459448593981 
+Hit id: ZINC62978158_1_40_3 rmsd: 0.9055909404876394 
+Hit id: ZINC49037428_136_91_5 rmsd: 0.9065288711740573 
+Hit id: ZINC00755277_58_26_10 rmsd: 0.9078951120668831 
+Hit id: ZINC00755277_58_26_11 rmsd: 0.9078951120668831 
+Hit id: ZINC51392340_1_78_6 rmsd: 0.915447006096704 
+Hit id: ZINC49037428_136_91_21 rmsd: 0.9184074593649039 
+Hit id: ZINC49037428_136_91_2 rmsd: 0.9190022704985391 
+Hit id: ZINC59293522_107_21_13 rmsd: 0.9232492741527314 
+Hit id: ZINC59293522_107_21_23 rmsd: 0.9232492741527314 
+Hit id: ZINC49037428_136_91_20 rmsd: 0.9288222781297871 
+Hit id: ZINC12476972_136_56_7 rmsd: 0.929017994598554 
+Hit id: ZINC39682599_138_37_11 rmsd: 0.9339921700022356 
+Hit id: ZINC39682599_138_37_23 rmsd: 0.9339921700022356 
+Hit id: ZINC62978158_1_40_0 rmsd: 0.9344132608417524 
+Hit id: ZINC39682599_138_37_21 rmsd: 0.9345637224044604 
+Hit id: ZINC39682599_138_37_9 rmsd: 0.9345665796872825 
+Hit id: ZINC49037428_136_91_6 rmsd: 0.9346249875312194 
+Hit id: ZINC49037428_136_91_15 rmsd: 0.9359901169455437 
+Hit id: ZINC49037428_136_91_7 rmsd: 0.936730468175591 
+Hit id: ZINC49037428_136_91_23 rmsd: 0.9409057710245872 
+Hit id: ZINC39660016_136_27_5 rmsd: 0.9434877290950486 
+Hit id: ZINC49037428_136_91_10 rmsd: 0.9458042455353816 
+Hit id: ZINC49037428_136_91_17 rmsd: 0.9459844159996883 
+Hit id: ZINC39660175_137_88_17 rmsd: 0.9465493240264292 
+Hit id: ZINC49037428_136_91_9 rmsd: 0.9486043155802999 
+Hit id: ZINC39660016_136_27_3 rmsd: 0.9486224712550071 
+Hit id: ZINC39660016_136_27_2 rmsd: 0.9503820913854927 
+Hit id: ZINC39673186_17_46_6 rmsd: 0.9526201833949284 
+Hit id: ZINC39695992_17_48_24 rmsd: 0.955236570885782 
+Hit id: ZINC55334135_65_24_5 rmsd: 0.9556253095378764 
+Hit id: ZINC39660175_137_88_11 rmsd: 0.9556452835731565 
+Hit id: ZINC39673186_17_46_12 rmsd: 0.9564716801332429 
+Hit id: ZINC39660175_137_88_9 rmsd: 0.9570815141810365 
+Hit id: ZINC39695992_17_48_18 rmsd: 0.9570950581996406 
+Hit id: ZINC39673186_17_46_5 rmsd: 0.9579380610464727 
+Hit id: ZINC39695992_17_48_19 rmsd: 0.9585674812053682 
+Hit id: ZINC39695992_17_48_16 rmsd: 0.9586292040588479 
+Hit id: ZINC39695992_17_48_17 rmsd: 0.9586970113850068 
+Hit id: ZINC49037428_136_91_19 rmsd: 0.9592802172841953 
+Hit id: ZINC39660016_136_27_7 rmsd: 0.959281468844002 
+Hit id: ZINC55334135_65_24_12 rmsd: 0.9596665578090163 
+Hit id: ZINC39659715_12_40_1 rmsd: 0.9597075018071441 
+Hit id: ZINC39659715_12_40_17 rmsd: 0.9597075018071441 
+Hit id: ZINC39659715_12_40_9 rmsd: 0.9597075018071441 
+Hit id: ZINC39656960_17_45_12 rmsd: 0.9609496157898013 
+Hit id: ZINC39696186_17_0_3 rmsd: 0.9614002981935225 
+Hit id: ZINC39656960_17_45_1 rmsd: 0.9628105242446577 
+Hit id: ZINC39696186_17_0_10 rmsd: 0.9628344270636242 
+Hit id: ZINC39696186_17_0_11 rmsd: 0.9628344270636242 
+Hit id: ZINC39696186_17_0_2 rmsd: 0.9628344270636242 
+Hit id: ZINC49037428_136_91_4 rmsd: 0.9631339363442314 
+Hit id: ZINC39673186_17_46_4 rmsd: 0.9635537988678289 
+Hit id: ZINC39682599_138_37_5 rmsd: 0.9635544133033562 
+Hit id: ZINC39696192_17_1_8 rmsd: 0.964594346614007 
+Hit id: ZINC39696192_17_1_0 rmsd: 0.9647080688324134 
+Hit id: ZINC39696192_17_1_1 rmsd: 0.9647080688324134 
+Hit id: ZINC39696192_17_1_9 rmsd: 0.9647080688324134 
+Hit id: ZINC39637485_12_39_1 rmsd: 0.9667772791935133 
+Hit id: ZINC39656960_17_45_15 rmsd: 0.9677447129521897 
+Hit id: ZINC39656960_17_45_13 rmsd: 0.9683069739517144 
+Hit id: ZINC39637485_12_39_13 rmsd: 0.9684437750664148 
+Hit id: ZINC39637485_12_39_4 rmsd: 0.9684437750664148 
+Hit id: ZINC55334135_65_24_1 rmsd: 0.9685098935980114 
+Hit id: ZINC55334135_65_24_6 rmsd: 0.9685098935980114 
+Hit id: ZINC39637485_12_39_9 rmsd: 0.9689393948464944 
+Hit id: ZINC39666329_16_98_6 rmsd: 0.9690169163796216 
+Hit id: ZINC39666329_16_98_2 rmsd: 0.9690467482358498 
+Hit id: ZINC39659826_12_42_1 rmsd: 0.969099106683008 
+Hit id: ZINC39659826_12_42_17 rmsd: 0.969099106683008 
+Hit id: ZINC39659826_12_42_21 rmsd: 0.969099106683008 
+Hit id: ZINC39659826_12_42_5 rmsd: 0.969099106683008 
+Hit id: ZINC12710885_136_59_5 rmsd: 0.9696740472603422 
+Hit id: ZINC39659772_12_41_0 rmsd: 0.9697105127078394 
+Hit id: ZINC39659772_12_41_12 rmsd: 0.9697105127078394 
+Hit id: ZINC39659772_12_41_16 rmsd: 0.9697105127078394 
+Hit id: ZINC39659772_12_41_20 rmsd: 0.9697105127078394 
+Hit id: ZINC39659772_12_41_4 rmsd: 0.9697105127078394 
+Hit id: ZINC39659772_12_41_8 rmsd: 0.9697105127078394 
+Hit id: ZINC39659715_12_40_11 rmsd: 0.9698804768150455 
+Hit id: ZINC39659715_12_40_19 rmsd: 0.9698804768150455 
+Hit id: ZINC39659715_12_40_3 rmsd: 0.9698804768150455 
+Hit id: ZINC39656960_17_45_4 rmsd: 0.9699323220681454 
+Hit id: ZINC39659826_12_42_13 rmsd: 0.9702790138584353 
+Hit id: ZINC39659826_12_42_9 rmsd: 0.9702790138584353 
+Hit id: ZINC39656960_17_45_2 rmsd: 0.9705041146936126 
+Hit id: ZINC45658796_1_12_6 rmsd: 0.9705863488933205 
+Hit id: ZINC39637485_12_39_14 rmsd: 0.9709312212299918 
+Hit id: ZINC39637485_12_39_5 rmsd: 0.9709312212299918 
+Hit id: ZINC39682360_137_89_0 rmsd: 0.9726790534774272 
+Hit id: ZINC39682360_137_89_8 rmsd: 0.9726850322648681 
+Hit id: ZINC39682360_137_89_21 rmsd: 0.9728052352988021 
+Hit id: ZINC39673186_17_46_14 rmsd: 0.9737227601357846 
+Hit id: ZINC59293522_107_21_11 rmsd: 0.9761085333914798 
+Hit id: ZINC59293522_107_21_21 rmsd: 0.9761085333914798 
+Hit id: ZINC39696192_17_1_10 rmsd: 0.976369617746187 
+Hit id: ZINC39666329_16_98_4 rmsd: 0.9765634436009596 
+Hit id: ZINC39666329_16_98_0 rmsd: 0.9766040736872381 
+Hit id: ZINC39696192_17_1_11 rmsd: 0.9766346168680268 
+Hit id: ZINC39696192_17_1_2 rmsd: 0.9766346168680268 
+Hit id: ZINC39696192_17_1_3 rmsd: 0.9766346168680268 
+Hit id: ZINC49037428_136_91_1 rmsd: 0.9778409857543099 
+Hit id: ZINC39660016_136_27_1 rmsd: 0.9785975242128737 
+Hit id: ZINC39673186_17_46_7 rmsd: 0.9792933752253289 
+Hit id: ZINC39660016_136_27_18 rmsd: 0.979467065698019 
+Hit id: ZINC39696251_17_2_6 rmsd: 0.9804272728174209 
+Hit id: ZINC39696251_17_2_7 rmsd: 0.9804272728174209 
+Hit id: ZINC39673186_17_46_13 rmsd: 0.9806425533078145 
+Hit id: ZINC39660016_136_27_17 rmsd: 0.9807857667024593 
+Hit id: ZINC39666329_16_98_1 rmsd: 0.980942323430881 
+Hit id: ZINC39666329_16_98_5 rmsd: 0.9809605930362665 
+Hit id: ZINC39660016_136_27_16 rmsd: 0.9813681748104188 
+Hit id: ZINC39682599_138_37_1 rmsd: 0.9814495843938503 
+Hit id: ZINC12476972_136_56_16 rmsd: 0.9815455584572564 
+Hit id: ZINC39696251_17_2_4 rmsd: 0.9817717087991258 
+Hit id: ZINC39696251_17_2_5 rmsd: 0.9817717087991258 
+Hit id: ZINC39682360_137_89_22 rmsd: 0.9819869505938018 
+Hit id: ZINC39682360_137_89_1 rmsd: 0.9820027970550111 
+Hit id: ZINC39682360_137_89_9 rmsd: 0.9820027970550111 
+Hit id: ZINC39659715_12_40_10 rmsd: 0.9824541727812504 
+Hit id: ZINC39659715_12_40_18 rmsd: 0.9824541727812504 
+Hit id: ZINC39659715_12_40_2 rmsd: 0.9824541727812504 
+Hit id: ZINC39656960_17_45_23 rmsd: 0.982756412985552 
+Hit id: ZINC39695992_17_48_2 rmsd: 0.9828547688209739 
+Hit id: ZINC39660016_136_27_4 rmsd: 0.9829483188481247 
+Hit id: ZINC39681375_16_99_16 rmsd: 0.983825387034935 
+Hit id: ZINC39681375_16_99_15 rmsd: 0.9838474099514052 
+Hit id: ZINC55334135_65_24_2 rmsd: 0.9839913428007254 
+Hit id: ZINC39695992_17_48_3 rmsd: 0.9842864749231133 
+Hit id: ZINC39681375_16_99_13 rmsd: 0.9843336665025542 
+Hit id: ZINC39681375_16_99_14 rmsd: 0.9843336665025542 
+Hit id: ZINC49037428_136_91_24 rmsd: 0.9861707707002827 
+Hit id: ZINC39660016_136_27_19 rmsd: 0.986573551190141 
+Hit id: ZINC39637485_12_39_8 rmsd: 0.9867336889608144 
+Hit id: ZINC39660016_136_27_6 rmsd: 0.9867393833355199 
+Hit id: ZINC39695992_17_48_0 rmsd: 0.9868598680774447 
+Hit id: ZINC39695992_17_48_1 rmsd: 0.9877590658987331 
+Hit id: ZINC49037428_136_91_14 rmsd: 0.9879224046130864 
+Hit id: ZINC39682599_138_37_17 rmsd: 0.9879463317422548 
+Hit id: ZINC39659772_12_41_1 rmsd: 0.9882340990115427 
+Hit id: ZINC39659772_12_41_13 rmsd: 0.9882340990115427 
+Hit id: ZINC39659772_12_41_17 rmsd: 0.9882340990115427 
+Hit id: ZINC39659772_12_41_21 rmsd: 0.9882340990115427 
+Hit id: ZINC39659772_12_41_5 rmsd: 0.9882340990115427 
+Hit id: ZINC39659772_12_41_9 rmsd: 0.9882340990115427 
+Hit id: ZINC39682599_138_37_13 rmsd: 0.9887114679603801 
+Hit id: ZINC39659715_12_40_0 rmsd: 0.9890312826331558 
+Hit id: ZINC39659715_12_40_16 rmsd: 0.9890312826331558 
+Hit id: ZINC39659715_12_40_24 rmsd: 0.9890312826331558 
+Hit id: ZINC39659715_12_40_8 rmsd: 0.9890312826331558 
+Hit id: ZINC39682360_137_89_10 rmsd: 0.9899779304946885 
+Hit id: ZINC39682360_137_89_2 rmsd: 0.9899779304946885 
+Hit id: ZINC39682360_137_89_23 rmsd: 0.9899779304946885 
+Hit id: ZINC39695883_17_47_2 rmsd: 0.9910231117729003 
+Hit id: ZINC39695883_17_47_3 rmsd: 0.9910231117729003 
+Hit id: ZINC39695883_17_47_4 rmsd: 0.9922017342910064 
+Hit id: ZINC39695883_17_47_5 rmsd: 0.9922017342910064 
+Hit id: ZINC39637485_12_39_22 rmsd: 0.9940615647210426 
+Hit id: ZINC39696251_17_2_2 rmsd: 0.9955430810759758 
+Hit id: ZINC39696251_17_2_3 rmsd: 0.9955430810759758 
+Hit id: ZINC39660175_137_88_10 rmsd: 0.9970238206640553 
+Hit id: ZINC39682599_138_37_7 rmsd: 0.9974825414017036 
+Hit id: ZINC39682599_138_37_14 rmsd: 0.9982904110272668 
+Hit id: ZINC39682599_138_37_19 rmsd: 0.9982904110272668 
+Hit id: ZINC39682599_138_37_3 rmsd: 0.9982904110272668 
+Hit id: ZINC39660175_137_88_13 rmsd: 0.999056176209754 
+Hit id: ZINC39696251_17_2_0 rmsd: 0.9994386060798869 
+Hit id: ZINC39696251_17_2_1 rmsd: 0.9994386060798869 
+Hit id: ZINC39682360_137_89_11 rmsd: 0.999722102245125 
+Hit id: ZINC39682360_137_89_24 rmsd: 0.999722102245125 
+Hit id: ZINC39682360_137_89_3 rmsd: 0.999722102245125 
+Hit id: ZINC39660175_137_88_8 rmsd: 1.0015358861818549 
+Hit id: ZINC39695883_17_47_6 rmsd: 1.0037802624593735 
+Hit id: ZINC39695883_17_47_7 rmsd: 1.0037802624593735 
+Hit id: ZINC39654571_16_97_14 rmsd: 1.005805148312628 
+Hit id: ZINC39654571_16_97_15 rmsd: 1.005805148312628 
+Hit id: ZINC39637485_12_39_21 rmsd: 1.0063510973475773 
+Hit id: ZINC39660175_137_88_3 rmsd: 1.0081854067596443 
+Hit id: ZINC39654571_16_97_12 rmsd: 1.0092368067636932 
+Hit id: ZINC39654571_16_97_13 rmsd: 1.0092368067636932 
+Hit id: ZINC39696253_17_3_2 rmsd: 1.0114391522441166 
+Hit id: ZINC39696253_17_3_3 rmsd: 1.0114391522441166 
+Hit id: ZINC39681375_16_99_6 rmsd: 1.0117469407476627 
+Hit id: ZINC39681375_16_99_19 rmsd: 1.0118584682632472 
+Hit id: ZINC39681375_16_99_20 rmsd: 1.0118584682632472 
+Hit id: ZINC39681375_16_99_4 rmsd: 1.0118584682632472 
+Hit id: ZINC39681375_16_99_5 rmsd: 1.0118584682632472 
+Hit id: ZINC39681375_16_99_7 rmsd: 1.0119321638860979 
+Hit id: ZINC39659826_12_42_12 rmsd: 1.0149373553424887 
+Hit id: ZINC39659826_12_42_24 rmsd: 1.0149373553424887 
+Hit id: ZINC39659826_12_42_8 rmsd: 1.0149373553424887 
+Hit id: ZINC39656960_17_45_19 rmsd: 1.0154364087968137 
+Hit id: ZINC39659826_12_42_0 rmsd: 1.015803005545191 
+Hit id: ZINC39659826_12_42_16 rmsd: 1.015803005545191 
+Hit id: ZINC39659826_12_42_20 rmsd: 1.015803005545191 
+Hit id: ZINC39659826_12_42_4 rmsd: 1.015803005545191 
+Hit id: ZINC39637485_12_39_19 rmsd: 1.0160565292356518 
+Hit id: ZINC39637485_12_39_24 rmsd: 1.0160565292356518 
+Hit id: ZINC39696186_17_0_1 rmsd: 1.0162307921489306 
+Hit id: ZINC39654571_16_97_4 rmsd: 1.0172013622050997 
+Hit id: ZINC39654571_16_97_5 rmsd: 1.0172013622050997 
+Hit id: ZINC39654571_16_97_6 rmsd: 1.0192398496534207 
+Hit id: ZINC39654571_16_97_7 rmsd: 1.0192398496534207 
+Hit id: ZINC39666329_16_98_7 rmsd: 1.0192503455815087 
+Hit id: ZINC39696253_17_3_0 rmsd: 1.0196415167342818 
+Hit id: ZINC39696253_17_3_1 rmsd: 1.0196415167342818 
+Hit id: ZINC39666329_16_98_3 rmsd: 1.0199770834235102 
+Hit id: ZINC39660175_137_88_2 rmsd: 1.0209484055605367 
+Hit id: ZINC39654571_16_97_2 rmsd: 1.0287083212121197 
+Hit id: ZINC39654571_16_97_3 rmsd: 1.0287083212121197 
+Hit id: ZINC39696186_17_0_0 rmsd: 1.0296097045097503 
+Hit id: ZINC39696186_17_0_8 rmsd: 1.0296097045097503 
+Hit id: ZINC39696186_17_0_9 rmsd: 1.0296097045097503 
+Hit id: ZINC39656960_17_45_22 rmsd: 1.030190253520617 
+Hit id: ZINC39656960_17_45_20 rmsd: 1.0306235062917817 
+Hit id: ZINC39673186_17_46_24 rmsd: 1.0409075668473082 
+Hit id: ZINC39696253_17_3_4 rmsd: 1.0414439479708113 
+Hit id: ZINC39696253_17_3_5 rmsd: 1.0414439479708113 
+Hit id: CHEMBL234602_2_51_12 rmsd: 1.0420635050078937 
+Hit id: ZINC39654571_16_97_0 rmsd: 1.0421397725008008 
+Hit id: ZINC39654571_16_97_1 rmsd: 1.0421397725008008 
+Hit id: ZINC55334135_65_24_9 rmsd: 1.046872598810378 
+Hit id: ZINC55334135_65_24_10 rmsd: 1.0468752562630108 
+Hit id: ZINC00713578_83_65_3 rmsd: 1.0481971302232562 
+Hit id: ZINC39696253_17_3_20 rmsd: 1.0491829951649345 
+Hit id: ZINC39696253_17_3_21 rmsd: 1.0491829951649345 
+Hit id: CHEMBL234602_2_51_13 rmsd: 1.0507668054187373 
+Hit id: ZINC22737504_128_49_1 rmsd: 1.0516018170877617 
+Hit id: ZINC39695883_17_47_16 rmsd: 1.052497481089566 
+Hit id: ZINC39695883_17_47_17 rmsd: 1.052497481089566 
+Hit id: ZINC22737504_128_49_18 rmsd: 1.0537383001555691 
+Hit id: ZINC39682360_137_89_16 rmsd: 1.0543656470114544 
+Hit id: ZINC22737504_128_49_17 rmsd: 1.0544654053392701 
+Hit id: ZINC39654571_16_97_10 rmsd: 1.0570859174985785 
+Hit id: ZINC39654571_16_97_11 rmsd: 1.0570859174985785 
+Hit id: ZINC39673186_17_46_15 rmsd: 1.058016620192088 
+Hit id: ZINC21801735_132_67_22 rmsd: 1.058089544949679 
+Hit id: ZINC22737504_128_49_19 rmsd: 1.058173158046439 
+Hit id: ZINC39654571_16_97_8 rmsd: 1.058767732453936 
+Hit id: ZINC39654571_16_97_9 rmsd: 1.058767732453936 
+Hit id: ZINC39695883_17_47_0 rmsd: 1.0609746904684945 
+Hit id: ZINC39695883_17_47_1 rmsd: 1.0609746904684945 
+Hit id: ZINC39696253_17_3_16 rmsd: 1.0656557232669837 
+Hit id: ZINC39696253_17_3_17 rmsd: 1.0656557232669837 
+Hit id: ZINC39696251_17_2_16 rmsd: 1.067721654501608 
+Hit id: ZINC39696251_17_2_17 rmsd: 1.067721654501608 
+Hit id: CHEMBL234602_2_51_15 rmsd: 1.067769926905797 
+Hit id: ZINC39695992_17_48_8 rmsd: 1.069411811126188 
+Hit id: CHEMBL234602_2_51_14 rmsd: 1.0695807405315334 
+Hit id: ZINC39660016_136_27_0 rmsd: 1.0700538822701273 
+Hit id: ZINC22737504_128_49_0 rmsd: 1.074203480418296 
+Hit id: ZINC22737504_128_49_11 rmsd: 1.0750885114081332 
+Hit id: ZINC39696253_17_3_6 rmsd: 1.0765919278066092 
+Hit id: ZINC39696253_17_3_7 rmsd: 1.0765919278066092 
+Hit id: ZINC39666329_16_98_15 rmsd: 1.0782538213624817 
+Hit id: ZINC39682360_137_89_18 rmsd: 1.0783621916961283 
+Hit id: ZINC39666329_16_98_19 rmsd: 1.0783822562427166 
+Hit id: ZINC22737504_128_49_10 rmsd: 1.0785325149353373 
+Hit id: ZINC39696253_17_3_18 rmsd: 1.0804338595797094 
+Hit id: ZINC39696253_17_3_19 rmsd: 1.0804338595797094 
+Hit id: ZINC21801735_132_67_8 rmsd: 1.0833035485965612 
+Hit id: ZINC39695883_17_47_22 rmsd: 1.0845777786217488 
+Hit id: ZINC39695883_17_47_23 rmsd: 1.0845777786217488 
+Hit id: ZINC39695992_17_48_9 rmsd: 1.0857871718349323 
+Hit id: ZINC22737504_128_49_9 rmsd: 1.0859994330027154 
+Hit id: ZINC39696253_17_3_22 rmsd: 1.0864018690033497 
+Hit id: ZINC39696253_17_3_23 rmsd: 1.0864018690033497 
+Hit id: ZINC39682360_137_89_19 rmsd: 1.0901877089402952 
+Hit id: ZINC39696251_17_2_20 rmsd: 1.0905419599671906 
+Hit id: ZINC39696251_17_2_21 rmsd: 1.0905419599671906 
+Hit id: ZINC39695992_17_48_10 rmsd: 1.0913783291339065 
+Hit id: ZINC38132086_53_52_22 rmsd: 1.0960084118464328 
+Hit id: ZINC39695883_17_47_18 rmsd: 1.0968568624354678 
+Hit id: ZINC39695883_17_47_19 rmsd: 1.0968568624354678 
+Hit id: ZINC39695883_17_47_20 rmsd: 1.098173781467822 
+Hit id: ZINC39695883_17_47_21 rmsd: 1.098173781467822 
+Hit id: ZINC39695992_17_48_11 rmsd: 1.1012055172592836 
+Hit id: ZINC39682360_137_89_17 rmsd: 1.101368052795491 
+Hit id: ZINC39696251_17_2_18 rmsd: 1.106588227095575 
+Hit id: ZINC39696251_17_2_19 rmsd: 1.106588227095575 
+Hit id: ZINC39666329_16_98_21 rmsd: 1.1071921415465704 
+Hit id: ZINC39666329_16_98_17 rmsd: 1.1076444342828984 
+Hit id: ZINC39696251_17_2_22 rmsd: 1.1097795578795966 
+Hit id: ZINC39696251_17_2_23 rmsd: 1.1097795578795966 
+Hit id: ZINC39666329_16_98_16 rmsd: 1.1113455327533874 
+Hit id: ZINC39666329_16_98_20 rmsd: 1.1117263745563606 
+Hit id: ZINC39656960_17_45_6 rmsd: 1.1149281806347167 
+Hit id: ZINC39666329_16_98_18 rmsd: 1.1160144105921543 
+Hit id: ZINC39666329_16_98_22 rmsd: 1.116189855722962 
+Hit id: ZINC39656960_17_45_8 rmsd: 1.1230006834593178 
+Hit id: ZINC03314371_129_98_24 rmsd: 1.1276637490500265 
+Hit id: ZINC38132025_53_49_6 rmsd: 1.1367638161951097 
+Hit id: ZINC38132081_53_50_8 rmsd: 1.1394534924811757 
+Hit id: ZINC38132081_53_50_9 rmsd: 1.1394534924811757 
+Hit id: ZINC39656960_17_45_7 rmsd: 1.1459423101808677 
+Hit id: ZINC38132025_53_49_7 rmsd: 1.1472519484752102 

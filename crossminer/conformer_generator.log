@@ -1,0 +1,1404 @@
+*******************************************************************
+Molecule: ZINC35156110_362_0
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             16
+   #CSD rotamer library:      14 / 16
+   #user fragment library:    2 / 16
+   #no rotamer information:   0 / 16
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        353280
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC35464402_362_1
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             16
+   #CSD rotamer library:      16 / 16
+   #user fragment library:    0 / 16
+   #no rotamer information:   0 / 16
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        38908
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC35666478_362_2
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             13
+   #CSD rotamer library:      13 / 13
+   #user fragment library:    0 / 13
+   #no rotamer information:   0 / 13
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        252375
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC35700746_362_3
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             13
+   #CSD rotamer library:      13 / 13
+   #user fragment library:    0 / 13
+   #no rotamer information:   0 / 13
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        513882
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36040935_362_4
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             13
+   #CSD rotamer library:      13 / 13
+   #user fragment library:    0 / 13
+   #no rotamer information:   0 / 13
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        436597
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36145207_362_5
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             11
+   #CSD rotamer library:      11 / 11
+   #user fragment library:    0 / 11
+   #no rotamer information:   0 / 11
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        496160
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC33937183_362_6
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        162269
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36483075_362_7
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        123330
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36505800_362_8
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        8961
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36511621_362_9
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             14
+   #CSD rotamer library:      14 / 14
+   #user fragment library:    0 / 14
+   #no rotamer information:   0 / 14
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        46904
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36595848_362_10
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        15960
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC40019771_362_11
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             14
+   #CSD rotamer library:      14 / 14
+   #user fragment library:    0 / 14
+   #no rotamer information:   0 / 14
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        95853
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC40019815_362_12
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             14
+   #CSD rotamer library:      14 / 14
+   #user fragment library:    0 / 14
+   #no rotamer information:   0 / 14
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        80142
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC40982763_362_13
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             15
+   #CSD rotamer library:      15 / 15
+   #user fragment library:    0 / 15
+   #no rotamer information:   0 / 15
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        54542
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC41001730_362_14
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             15
+   #CSD rotamer library:      15 / 15
+   #user fragment library:    0 / 15
+   #no rotamer information:   0 / 15
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        64225
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01772615_362_15
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        742350
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01823352_362_16
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             11
+   #CSD rotamer library:      11 / 11
+   #user fragment library:    0 / 11
+   #no rotamer information:   0 / 11
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        336071
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01896660_362_17
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        315516
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01897929_362_18
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             11
+   #CSD rotamer library:      11 / 11
+   #user fragment library:    0 / 11
+   #no rotamer information:   0 / 11
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        714876
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01897970_362_19
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             11
+   #CSD rotamer library:      11 / 11
+   #user fragment library:    0 / 11
+   #no rotamer information:   0 / 11
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        395986
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC13499254_362_20
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        70090
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC13500837_362_21
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        209418
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC13499357_362_22
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        111906
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC20582748_362_23
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             16
+   #CSD rotamer library:      16 / 16
+   #user fragment library:    0 / 16
+   #no rotamer information:   0 / 16
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        186267
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC20582748_362_24
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             16
+   #CSD rotamer library:      16 / 16
+   #user fragment library:    0 / 16
+   #no rotamer information:   0 / 16
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        174236
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC61997292_362_25
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        129522
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC04283556_362_26
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        797776
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC02391566_362_27
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        944306
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01773708_362_28
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      8 / 8
+   #user fragment library:    0 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        65340
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC11854773_362_29
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        528847
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01320820_362_30
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        108156
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01320821_362_31
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        49658
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC13602563_362_32
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        542422
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC14274363_362_33
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      5 / 9
+   #user fragment library:    4 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        404730
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC14276467_362_34
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      6 / 8
+   #user fragment library:    2 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        138864
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC14276470_362_35
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      6 / 8
+   #user fragment library:    2 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        138852
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC00683729_362_36
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             6
+   #CSD rotamer library:      6 / 6
+   #user fragment library:    0 / 6
+   #no rotamer information:   0 / 6
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        260934
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC15219771_362_37
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             6
+   #CSD rotamer library:      6 / 6
+   #user fragment library:    0 / 6
+   #no rotamer information:   0 / 6
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        178544
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC16614009_362_38
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        814422
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC17013644_362_39
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      8 / 8
+   #user fragment library:    0 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        905839
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC14274772_362_40
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        146528
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC27522000_362_41
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        1000000
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC02353577_362_42
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        553094
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC00751099_362_43
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             11
+   #CSD rotamer library:      11 / 11
+   #user fragment library:    0 / 11
+   #no rotamer information:   0 / 11
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        568593
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC34786910_362_44
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        80144
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC35671706_362_45
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      8 / 10
+   #user fragment library:    2 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        1000000
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC35969638_362_46
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      7 / 9
+   #user fragment library:    2 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        1000000
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36013566_362_47
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             12
+   #CSD rotamer library:      12 / 12
+   #user fragment library:    0 / 12
+   #no rotamer information:   0 / 12
+
+#flexible ring systems:       2
+   #CSD template library:     2 / 2
+   #no template:              0 / 2
+
+#conformers generated:        119776
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC36145468_362_48
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        967328
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC02646778_362_49
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        557380
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC38688614_362_50
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        320688
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC38688727_362_51
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      8 / 8
+   #user fragment library:    0 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        425744
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC38688747_362_52
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        141120
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC38700531_362_53
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      8 / 8
+   #user fragment library:    0 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        52084
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC38700905_362_54
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        175200
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC40916837_362_55
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        225865
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC40922397_362_56
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        218085
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC40980885_362_57
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        476784
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC41022022_362_58
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        467595
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC41022114_362_59
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        401919
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC43190522_362_60
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        499650
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC44960624_362_61
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        426312
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC02293486_362_62
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        435270
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC02311616_362_63
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        434969
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC16136610_362_64
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      6 / 7
+   #user fragment library:    1 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        134797
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC54613828_362_65
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        471937
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC01283463_362_66
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      8 / 8
+   #user fragment library:    0 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        526038
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC54643488_362_67
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       1
+   #CSD template library:     1 / 1
+   #no template:              0 / 1
+
+#conformers generated:        563198
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC58825049_362_68
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             10
+   #CSD rotamer library:      10 / 10
+   #user fragment library:    0 / 10
+   #no rotamer information:   0 / 10
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        172755
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC58891174_362_69
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        881702
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC59294552_362_70
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      7 / 9
+   #user fragment library:    2 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        726028
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC59365877_362_71
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      7 / 9
+   #user fragment library:    2 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        1000000
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC00863899_362_72
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        170737
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC00863899_362_73
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        170316
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC64703548_362_74
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             9
+   #CSD rotamer library:      9 / 9
+   #user fragment library:    0 / 9
+   #no rotamer information:   0 / 9
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        649572
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC64859943_362_75
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             8
+   #CSD rotamer library:      8 / 8
+   #user fragment library:    0 / 8
+   #no rotamer information:   0 / 8
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        1000000
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC09110355_362_76
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        49467
+#conformers after clustering: 25
+
+*******************************************************************
+Molecule: ZINC09110355_362_77
+*******************************************************************
+
+
+#Mogul file location:               /local/pcurran/CCDC/CSD_2020/data
+#rotatable bonds:             7
+   #CSD rotamer library:      7 / 7
+   #user fragment library:    0 / 7
+   #no rotamer information:   0 / 7
+
+#flexible ring systems:       0
+   #CSD template library:     0 / 0
+   #no template:              0 / 0
+
+#conformers generated:        47982
+#conformers after clustering: 25
+

@@ -1,0 +1,15 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-pcurran'
+Traceback (most recent call last):
+  File "search.py", line 282, in <module>
+    ligand_map_search(base=base, t=target, num=num)
+  File "search.py", line 195, in ligand_map_search
+    totals = {"actives": len(MoleculeReader(actives)),
+  File "/home/pcurran/anaconda3/envs/hotspots/lib/python3.7/site-packages/ccdc/io.py", line 1213, in __new__
+    ret = k(filename, db=db)
+  File "/home/pcurran/anaconda3/envs/hotspots/lib/python3.7/site-packages/ccdc/io.py", line 1045, in __init__
+    _DatabaseReader.__init__(self, fname)
+  File "/home/pcurran/anaconda3/envs/hotspots/lib/python3.7/site-packages/ccdc/io.py", line 722, in __init__
+    self._db = self.klass(os.path.abspath(self._tempfile))
+  File "/home/pcurran/anaconda3/envs/hotspots/lib/python3.7/site-packages/ccdc/_lib/FileFormatsLib.py", line 2301, in __init__
+    _FileFormatsLib.GoldMol2Database_swiginit(self, _FileFormatsLib.new_GoldMol2Database(*args))
+RuntimeError: Mol2DatabaseReader::parse() couldn't retrieve entry /tmp/actives_final.mol2

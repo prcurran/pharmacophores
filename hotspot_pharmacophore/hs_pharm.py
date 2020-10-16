@@ -18,6 +18,11 @@ def pharms(out):
 
         p.pymol_visulisation(vis_out)
 
+        for feat in p.detected_features:
+            p.add_feature(feat)
+
+        p.write(os.path.join(vis_out, "hot.cm"))
+
 
 if __name__ == "__main__":
     targets = ["CDK2", "DHFR", "Thrombin", "HIVRT", "A2A"]
